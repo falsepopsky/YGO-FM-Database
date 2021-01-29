@@ -4,6 +4,8 @@
     --black-color: black;
     --white-color: rgb(255, 255, 255);
     --primary-font-color: rgb(30, 35, 55);
+    --font-size-primary: 48px;
+    --font-size-secondary: 26px;
 }
 
 body {
@@ -17,25 +19,54 @@ body {
     background-size: cover;
     height: 100%;
 }
-
-#logo {
-    height: 2em;
+.header-box {
+    margin: 0;
+    padding: 0;
+    font-family: "Varela Round", sans-serif;
+    background-color: white;
 }
 
-.nav-link {
-    font-family: var(--varela);
+.header-nav {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 0 5vw;
+    height: 60px;
 }
 
-.btn-thread {
-    color: var(--black-color);
-    background-color: var(--white-color);
-    border-color: var(--black-color);
-    font-family: var(--varela);
+.header-box-image {
+    order: 1;
 }
-.btn-thread:hover {
-    color: var(--white-color);
-    background-color: var(--black-color);
-    border-color: var(--black-color);
+
+.image-logo {
+    width: auto;
+    height: 50px;
+}
+
+.header-box-navbar {
+    order: 2;
+    margin-left: auto;
+}
+
+.lista {
+    display: flex;
+    flex-flow: row nowrap;
+    list-style-type: none;
+    margin: 0;
+}
+
+.lista-item {
+    margin: 0 10px;
+}
+
+.link-navigation {
+    text-decoration: none;
+    color: black;
+}
+
+.link-navigation:hover {
+    text-decoration: none;
+    color: rgb(49, 49, 49);
 }
 
 .background-vrains {
@@ -67,6 +98,7 @@ body {
 }
 
 .text-main {
+    font-size: var(--font-size-primary);
     font-family: var(--jetbrains);
 }
 
@@ -130,6 +162,19 @@ body {
 .container-about {
     background: rgb(30, 35, 55);
     color: var(--white-color);
+}
+
+.container-about-box {
+    display: flex;
+    flex-flow: column wrap;
+    margin: 5vw 5vw;
+    justify-content: center;
+    align-content: center;
+}
+
+.text-about {
+    font-size: var(--font-size-secondary);
+    max-width: 800px;
 }
 
 .about-title {

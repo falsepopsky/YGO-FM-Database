@@ -13,67 +13,50 @@
             rel="stylesheet"
         />
         <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet" />
-        <link rel="stylesheet" type="text/css" href="public/styles/normalize.css" />
-        <link rel="stylesheet" type="text/css" href="public/styles/bootstrap.min.css" />
-        <link rel="stylesheet" href="public/styles/home.css" />
+        <link rel="stylesheet" type="text/css" href="public/css/normalize.css" />
+        <link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="public/css/home.css" />
     </head>
     <body class="bg-light d-flex flex-column min-vh-100">
-        <header class="navbar navbar-expand-lg navbar-light bg-light flex-column flex-md-row">
-            <a class="navbar-brand text-truncate" href="index.html">
-                <img
-                    class="img-fluid ml-4"
-                    id="logo"
-                    src="public/images/logo.png"
-                    alt="Yu-Gi-Oh! Forbiden Memories Logo"
-                />
-            </a>
-            <button
-                class="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-            >
-                <span class="navbar-toggler-icon d-md-none p-0 mx-2 collapsed"></span>
-            </button>
+        <header class="header-box">
+            <nav class="header-nav">
+                <div class="header-box-image">
+                    <a class="lista-item" href="index.html">
+                        <img
+                            class="image-logo"
+                            src="public/images/logo.png"
+                            alt="Yu-Gi-Oh! Forbiden Memories Logo"
+                        />
+                    </a>
+                </div>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="fusion-search.html">Fusion Search</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="fusion-calculator.html">Fusion Calculator</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="about.html">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a
-                            class="btn btn-bd btn-thread"
-                            href="http://forums.somethingawful.com/showthread.php?threadid=3783156"
-                            rel="noopener noreferrer"
-                            target="_blank"
-                            >Thread</a
-                        >
-                    </li>
-                </ul>
-            </div>
+                <div class="header-box-navbar">
+                    <ul class="lista">
+                        <li class="lista-item">
+                            <a class="link-navigation" href="fusion-search.html">Fusion Search</a>
+                        </li>
+                        <li class="lista-item">
+                            <a class="link-navigation" href="fusion-calculator.html">Fusion Calculator</a>
+                        </li>
+                        <li class="lista-item">
+                            <a class="link-navigation" href="about.html">About</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
         </header>
         <main class="container-fluid">
             <section class="row container-about">
-                <div class="col my-5 mx-5">
+                <div class="container-about-box col">
                     <h2 class="text-center mb-5 text-main">ABOUT</h2>
 
-                    <p>
+                    <p class="text-about">
                         Yu-Gi-Oh! Forbidden Memories is a terrible game with a terrible mechanic called
                         "fusions." Fusions allow the player to fuse two cards together to get a new,
                         hopefully more powerful card.
                     </p>
 
-                    <p>
+                    <p class="text-about">
                         But, since it's a terrible game, YGO:FM does nothing to actually
                         <em>tell</em> you about the fusions. Your options are to either try every card
                         against every other card (and by the way there's over 720 cards in the game) or to
@@ -82,7 +65,7 @@
                         ones are worth it is tedious.
                     </p>
 
-                    <p>
+                    <p class="text-about">
                         The real motivation for this project is Giver336's LP of the game on Something Awful.
                         His co-commentator, General Yeti, mused about the possibility of a program to find
                         the fusions for you. Here it is!

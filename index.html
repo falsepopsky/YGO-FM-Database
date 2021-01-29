@@ -4,9 +4,13 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Yu-Gi-Oh! Forbiden Memories fusion list" />
-        <meta name="keywords" content="Yu-Gi-Oh!, YuGiOh, Forbiden Memories, playstation, Fusion" />
+        <meta
+            name="keywords"
+            content="Yu-Gi-Oh!, YuGiOh, Forbiden Memories, playstation, database, Fusion"
+        />
         <meta name="robots" content="index, follow" />
-        <title>Yu-Gi-Oh! Forbiden Memories Fusion Calculator</title>
+        <meta name="url" content="https://falsepopsky.github.io/YGO-FM-Database/" />
+        <title>Yu-Gi-Oh! Forbiden Memories Database</title>
         <link rel="icon" type="image/x-icon" href="public/images/yugioh.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
@@ -14,63 +18,47 @@
             rel="stylesheet"
         />
         <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet" />
-        <link rel="stylesheet" type="text/css" href="public/styles/normalize.css" />
-        <link rel="stylesheet" type="text/css" href="public/styles/bootstrap.min.css" />
-        <link rel="stylesheet" type="text/css" href="public/styles/home.css" />
+        <link rel="stylesheet" type="text/css" href="public/css/normalize.css" />
+        <link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="public/css/home.css" />
     </head>
 
     <body class="d-flex flex-column min-vh-100">
-        <header class="navbar navbar-expand-lg navbar-light bg-light flex-column flex-md-row">
-            <a class="navbar-brand text-truncate" href="index.html">
-                <img
-                    class="img-fluid ml-4"
-                    id="logo"
-                    src="public/images/logo.png"
-                    alt="Yu-Gi-Oh! Forbiden Memories Logo"
-                />
-            </a>
-            <button
-                class="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-            >
-                <span class="navbar-toggler-icon d-md-none p-0 mx-2 collapsed"></span>
-            </button>
+        <header class="header-box">
+            <nav class="header-nav">
+                <div class="header-box-image">
+                    <a class="lista-item" href="index.html">
+                        <img
+                            class="image-logo"
+                            src="public/images/logo.png"
+                            alt="Yu-Gi-Oh! Forbiden Memories Logo"
+                        />
+                    </a>
+                </div>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="fusion-search.html">Fusion Search</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="fusion-calculator.html">Fusion Calculator</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="about.html">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a
-                            class="btn btn-bd btn-thread"
-                            href="http://forums.somethingawful.com/showthread.php?threadid=3783156"
-                            rel="noopener noreferrer"
-                            target="_blank"
-                            >Thread</a
-                        >
-                    </li>
-                </ul>
-            </div>
+                <div class="header-box-navbar">
+                    <ul class="lista">
+                        <li class="lista-item">
+                            <a class="link-navigation" href="fusion-search.html">Fusion Search</a>
+                        </li>
+                        <li class="lista-item">
+                            <a class="link-navigation" href="fusion-calculator.html">Fusion Calculator</a>
+                        </li>
+                        <li class="lista-item">
+                            <a class="link-navigation" href="about.html">About</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
         </header>
+
         <main class="container-fluid background-vrains">
             <section class="row container-main-fm">
                 <div
                     class="col-md-8 offset-md-1 col-lg-5 offset-lg-1 order-sm-12 order-md-1 order-lg-1 my-4"
                 >
                     <h1 class="text-main my-4 text-white hero-title">Yu-Gi-Oh! Forbidden Memories</h1>
-                    <h2 class="text-main my-4 text-white hero-title">Fusion Calculator</h2>
+                    <h2 class="text-main my-4 text-white hero-title">Database</h2>
                     <p class="m-4 text-subtext text-white">
                         Yu-Gi-Oh! Forbidden Memories is a terrible game with a terrible mechanic called
                         "fusions." Fusions allow the player to fuse two cards together to get a new,
@@ -189,12 +177,10 @@
                             alt="millennium-pendant"
                         />
                     </a>
-                    <p class="my-3 text-white d-inline">
-                        Yu-Gi-Oh! Forbiden Memories Fusion Calculator © 2020
-                    </p>
+                    <p class="my-3 text-white d-inline">Yu-Gi-Oh! Forbiden Memories Database © 2021</p>
                     <a
-                        class="d-inline m-0 p-0"
-                        href="https://github.com/Solumin/YGO-FM-FusionCalc"
+                        class="d-inline m-0 p-0 text-decoration-none"
+                        href="https://github.com/falsepopsky/YGO-FM-Database/"
                         rel="noopener noreferrer"
                         target="_blank"
                     >

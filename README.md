@@ -1,36 +1,17 @@
-## Yu-Gi-Oh! Forbidden Memories Fusion Calculator
+## Yu-Gi-Oh! Forbidden Memories Database
 
-Version: 0.8
+Version: 1.0
 
-Yu-Gi-Oh! Forbidden Memories is a terrible game with a terrible mechanic called
-"fusions." Fusions allow the player to fuse two cards together to get a new,
-hopefully more powerful card.
+Forked from [GitHub Repository](https://github.com/Solumin/YGO-FM-FusionCalc) created by [Solumin](https://github.com/Solumin). Due to Inactive maintenance, I decided to added some style, and make it more great !.
 
-But, since it's a terrible game, YGO:FM does nothing to actually _tell_ you
-about the fusions. Your options are to either try every card against every other
-card (and by the way there's over 720 cards in the game) or to look it up
-online. Oh, and the game doesn't try to record the fusions at all. And since
-one card might fuse with a few _hundred_ other cards, trying to find out which
-ones are worth it is tedious.
+**How to Use the Database**
 
-The real motivation for this project is Giver336's LP of the game on Something
-Awful. His co-commentator, General Yeti, mused about the possibility of a
-program to find the fusions for you. Here it is!
-
-**How to Use the Calculator**
-
-Visit the Fusion Search and Calculator on [GitHub
-Pages!](https://solumin.github.io/YGO-FM-FusionCalc/)
-
-### What's Next?
-
--   [ ] Better formatting of output, I guess
--   [ ] Sorting of fusions, probably
+Visit the Yu-Gi-Oh! Forbidden Memories Database on [GitHub
+Pages](https://falsepopsky.github.io/YGO-FM-Database/) and then you can swap from search cards from the database or input your hand and discover what type of fusion you can do.
 
 ### Contributing
 
-Feel free to fork and send in pull requests. This is my first "real" JavaScript
-project, and I know it's ugly. I'll add a license sooner or later.
+Feel free to fork and send pull requests.
 
 ### Project Notes
 
@@ -51,6 +32,7 @@ All data for the project is in the `data` directory, and it is all derived from
 
 ## Special Thanks:
 
+-   [Solumin](https://github.com/Solumin) Original Author
 -   Steve Kalynuik, Dylan Birtolo and Miguel Balauag, for the [Fusion
     FAQ](https://www.gamefaqs.com/ps/561010-yu-gi-oh-forbidden-memories/faqs/16613), an invaluable resource
 -   The Yu-Gi-Oh! Wikia, for the list of cards that I turned into the card
@@ -60,4 +42,3 @@ All data for the project is in the `data` directory, and it is all derived from
     _very_ innacurate.
 -   marcos0000 for Forbidden Memories Logo in HD [devianart profile](https://www.deviantart.com/marcos0000) and Carlos123321 for vrains background [devianart profile](https://www.deviantart.com/carlos123321)
 -   Giver336 for the .gif
--   [falsepopsky](https://github.com/falsepopsky).
