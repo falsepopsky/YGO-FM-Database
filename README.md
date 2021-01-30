@@ -2,7 +2,7 @@
 
 Version: 1.0
 
-Forked from [GitHub Repository](https://github.com/Solumin/YGO-FM-FusionCalc) created by [Solumin](https://github.com/Solumin). Due to Inactive maintenance, I decided to added some style, and make it more great !.
+Forked from [GitHub Repository](https://github.com/Solumin/YGO-FM-FusionCalc) original author [Solumin](https://github.com/Solumin). Due to Inactive maintenance, I decided to added some style, and make it more great !.
 
 **How to Use the Database**
 

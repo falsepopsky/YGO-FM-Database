@@ -1,0 +1,27 @@
+.polymerization {
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../images/fusion_background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+.container-main-fm {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#container-space {
+    height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/lost_memories.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-shadow: 2px 2px 6px black;
+}
+
+#container-contribution {
+    height: 400px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}

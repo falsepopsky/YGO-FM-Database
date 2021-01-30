@@ -6,108 +6,8 @@
     --primary-font-color: rgb(30, 35, 55);
     --font-size-primary: 48px;
     --font-size-secondary: 26px;
-}
-
-body {
-    font-family: var(--varela), "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.polymerization {
-    width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("../images/fusion_background.jpg") no-repeat center center fixed;
-    background-size: cover;
-    height: 100%;
-}
-.header-box {
-    margin: 0;
-    padding: 0;
-    font-family: "Varela Round", sans-serif;
-    background-color: white;
-}
-
-.header-nav {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    margin: 0 5vw;
-    height: 60px;
-}
-
-.header-box-image {
-    order: 1;
-}
-
-.image-logo {
-    width: auto;
-    height: 50px;
-}
-
-.header-box-navbar {
-    order: 2;
-    margin-left: auto;
-}
-
-.lista {
-    display: flex;
-    flex-flow: row nowrap;
-    list-style-type: none;
-    margin: 0;
-}
-
-.lista-item {
-    margin: 0 10px;
-}
-
-.link-navigation {
-    text-decoration: none;
-    color: black;
-}
-
-.link-navigation:hover {
-    text-decoration: none;
-    color: rgb(49, 49, 49);
-}
-
-.background-vrains {
-    width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/background.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.container-main-fm {
-    background: rgba(0, 0, 0, 0.5);
-}
-
-#container-space {
-    height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/lost_memories.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    text-shadow: 2px 2px 6px black;
-}
-
-#container-contribution {
-    height: 400px;
-    font-size: 20px;
-    color: white;
-    background-color: black;
-}
-
-.text-main {
-    font-size: var(--font-size-primary);
-    font-family: var(--jetbrains);
-}
-
-.text-subtext {
-    font-family: var(--varela);
-}
-
-.hero-title {
-    animation: fromlefttoright 1s 1;
+    --font-size-third: 24px;
+    --font-size-text-mobile: 17px;
 }
 
 @keyframes fromlefttoright {
@@ -119,6 +19,124 @@ body {
     }
 }
 
+body {
+    font-family: var(--varela), "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-flow: column wrap;
+    min-height: 100vh;
+}
+
+.header-container {
+    margin: 0;
+    padding: 0;
+    background-color: var(--white-color);
+}
+
+.header-nav {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 0 5vw;
+    height: 60px;
+}
+
+.header-nav-logo {
+    order: 1;
+}
+
+.image-logo {
+    width: auto;
+    height: 50px;
+}
+
+.header-nav-navigation {
+    order: 2;
+    margin-left: auto;
+}
+
+.header-nav-navigation-list {
+    display: flex;
+    flex-flow: row wrap;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header-nav-navigation-item {
+    margin: 0 10px;
+}
+
+.header-nav-link {
+    outline: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.header-nav-link:hover {
+    text-decoration: none;
+    color: rgb(49, 49, 49);
+}
+
+.main-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.container-hero {
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: var(--white-color);
+}
+
+.wrapper-container {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 3vw 5vw;
+}
+
+.hero-box-main {
+    order: 1;
+    width: auto;
+    align-self: center;
+}
+
+.hero-box-psx-cover {
+    width: 500px;
+    order: 2;
+    margin-left: auto;
+}
+
+.main-title {
+    font-size: var(--font-size-primary);
+    font-family: var(--jetbrains);
+}
+
+.general-text-info {
+    font-family: var(--varela);
+    font-size: var(--font-size-secondary);
+    margin: 0 0 0 20px;
+    max-width: 500px;
+}
+
+.hero-title {
+    max-width: 600px;
+    animation: fromlefttoright 1s 1;
+}
+
+.hero-btn {
+    margin-left: 20px;
+}
+
+.cover-playstation {
+    width: 487;
+    height: auto;
+}
+
 .cover-playstation:hover {
     box-shadow: 0px 1px 0px #00a8e7, 0px 0px 5px 0px #00a8e7, 0px 0px 1px 0px #00a8e7;
 }
@@ -128,7 +146,6 @@ body {
 }
 
 .container-fusion-search {
-    border-top: 2px solid black;
     background-color: rgb(244, 244, 245);
     color: var(--primary-font-color);
 }
@@ -164,6 +181,16 @@ body {
     color: var(--white-color);
 }
 
+.about-box-info {
+    order: 1;
+    width: 600px;
+}
+
+.about-box-kaiba {
+    order: 2;
+    margin-left: auto;
+}
+
 .container-about-box {
     display: flex;
     flex-flow: column wrap;
@@ -197,7 +224,19 @@ body {
     background-color: rgb(237, 139, 121);
 }
 
+.footer-container {
+    margin: auto 0 0 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+    background-color: var(--black-color);
+}
+
 .footer-bottom {
+    margin: 0 5vw;
     background-color: var(--black-color);
 }
 
@@ -214,18 +253,51 @@ body {
     margin-left: 10px;
 }
 
-@media (max-width: 576px) {
-    .hero-title {
-        font-size: 1.6rem;
-        text-align: center;
+@media (max-width: 767px) {
+    .main-title {
+        margin-top: 30px;
+        font-size: var(--font-size-third);
+        max-width: 310px;
     }
-    .text-subtext {
-        font-size: 1.2rem;
+
+    .general-text-info {
+        margin-top: 20px;
+        max-width: auto;
+        font-size: var(--font-size-text-mobile);
     }
+
+    .hero-box-psx-cover {
+        display: none;
+    }
+
+    .about-box-kaiba {
+        display: none;
+    }
+
     .footer-bottom {
         font-size: 12px;
     }
     #container-contribution {
         font-size: 15px;
+    }
+}
+
+@media (max-width: 482px) {
+    .header-nav {
+        height: auto;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-nav-logo {
+        margin-top: 20px;
+    }
+
+    .header-nav-navigation {
+        margin: 10px 0;
+    }
+
+    .hero-box-psx-cover {
+        display: none;
     }
 }
