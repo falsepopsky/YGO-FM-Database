@@ -1,0 +1,159 @@
+@keyframes changecolorred {
+    0% {
+        background: red;
+    }
+    20% {
+        background: black;
+    }
+    40% {
+        background: white;
+    }
+    60% {
+        background: red;
+    }
+
+    80% {
+        background: black;
+    }
+    100% {
+        background: white;
+    }
+}
+
+@keyframes changecolorwhite {
+    0% {
+        background: white;
+    }
+    20% {
+        background: red;
+    }
+    40% {
+        background: black;
+    }
+    60% {
+        background: white;
+    }
+
+    80% {
+        background: red;
+    }
+    100% {
+        background: black;
+    }
+}
+
+@keyframes changecolorblack {
+    0% {
+        background: black;
+    }
+    20% {
+        background: white;
+    }
+    40% {
+        background: red;
+    }
+    60% {
+        background: black;
+    }
+
+    80% {
+        background: white;
+    }
+    100% {
+        background: red;
+    }
+}
+
+.container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo-9 {
+    width: 650px;
+    height: 650px;
+    background: black;
+    border-radius: 50%;
+    animation: changecolorblack 1s infinite;
+}
+
+.circulo-8 {
+    width: 600px;
+    height: 600px;
+    background: white;
+    border-radius: 50%;
+    animation: changecolorwhite 1s infinite;
+}
+
+.circulo-7 {
+    width: 520px;
+    height: 520px;
+    background: red;
+    border-radius: 50%;
+    animation: changecolorred 1s infinite;
+}
+
+.circulo-6 {
+    width: 500px;
+    height: 500px;
+    background: white;
+    border-radius: 50%;
+    animation: changecolorwhite 1s infinite;
+}
+
+.circulo-5 {
+    width: 400px;
+    height: 400px;
+    background: black;
+    border-radius: 50%;
+
+    animation: changecolorblack 1s infinite;
+}
+
+.circulo-4 {
+    width: 300px;
+    height: 300px;
+    background: red;
+    border-radius: 50%;
+    animation: changecolorred 1s infinite;
+}
+
+.circulo-3 {
+    align-self: center;
+    width: 200px;
+    height: 200px;
+    background: black;
+    border-radius: 50%;
+
+    animation: changecolorblack 1s infinite;
+}
+
+.circulo-2 {
+    align-self: center;
+    width: 125px;
+    height: 125px;
+    background: white;
+    border-radius: 50%;
+    animation: changecolorwhite 1s infinite;
+}
+
+.circulo-1 {
+    align-self: center;
+    width: 62px;
+    height: 62px;
+    background: red;
+    border-radius: 50%;
+    animation: changecolorred 1s infinite;
+}

@@ -10,12 +10,14 @@
     --font-size-text-mobile: 17px;
 }
 
-@keyframes fromlefttoright {
+@keyframes fromdowntoup {
     0% {
-        transform: translateX(-50%);
+        opacity: 0;
+        transform: translateY(50%);
     }
     100% {
-        transform: translateX(0%);
+        opacity: 1;
+        transform: translateY(0%);
     }
 }
 
@@ -72,9 +74,22 @@ body {
     color: black;
 }
 
+.header-nav-link::after:not(:first-child) {
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #0fff95;
+    transition: width 0.3s;
+}
+
 .header-nav-link:hover {
     text-decoration: none;
     color: rgb(49, 49, 49);
+}
+
+.header-nav-link:hover::after:not(:first-child) {
+    width: 100%;
 }
 
 .main-container {
@@ -99,14 +114,14 @@ body {
     margin: 3vw 5vw;
 }
 
-.hero-box-main {
+.box-main {
     order: 1;
     width: auto;
     align-self: center;
 }
 
 .hero-box-psx-cover {
-    width: 500px;
+    width: auto;
     order: 2;
     margin-left: auto;
 }
@@ -124,16 +139,15 @@ body {
 }
 
 .hero-title {
-    max-width: 600px;
-    animation: fromlefttoright 1s 1;
+    animation: fromdowntoup 2s 1;
 }
 
-.hero-btn {
+.main-btn {
     margin-left: 20px;
 }
 
 .cover-playstation {
-    width: 487;
+    width: 100%;
     height: auto;
 }
 
@@ -183,7 +197,7 @@ body {
 
 .about-box-info {
     order: 1;
-    width: 600px;
+    width: auto;
 }
 
 .about-box-kaiba {
@@ -253,16 +267,37 @@ body {
     margin-left: 10px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1024px) and (orientation: landscape) {
+    .wrapper-container {
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+
+    .hero-box-main {
+        width: 420px;
+    }
+
+    .cover-playstation {
+        height: 366px;
+    }
+
     .main-title {
+        font-size: 32px;
+    }
+
+    .general-text-info {
         margin-top: 30px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 779px) {
+    .main-title {
         font-size: var(--font-size-third);
         max-width: 310px;
     }
 
     .general-text-info {
-        margin-top: 20px;
-        max-width: auto;
         font-size: var(--font-size-text-mobile);
     }
 
