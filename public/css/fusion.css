@@ -1,0 +1,143 @@
+:root {
+  --varela: "Varela Round", sans-serif;
+  --jetbrains: "JetBrains Mono", monospace;
+  --black-color: black;
+  --white-color: rgb(255, 255, 255);
+  --primary-font-color: rgb(30, 35, 55);
+  --font-size-primary: 48px;
+  --font-size-secondary: 26px;
+  --font-size-third: 24px;
+  --font-size-text-mobile: 17px;
+}
+
+body {
+  font-family: var(--varela), "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-flow: column wrap;
+  min-height: 100vh;
+}
+
+.header-container {
+  margin: 0;
+  padding: 0;
+  background-color: var(--white-color);
+}
+
+.header-nav {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  margin: 0 5vw;
+  height: 60px;
+}
+
+.header-nav-logo {
+  order: 1;
+}
+
+.image-logo {
+  width: auto;
+  height: 50px;
+}
+
+.header-nav-navigation {
+  order: 2;
+  margin-left: auto;
+}
+
+.header-nav-navigation-list {
+  display: flex;
+  flex-flow: row wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-nav-navigation-item {
+  margin: 0 10px;
+}
+
+.general-link {
+  outline: 0;
+  text-decoration: none;
+  color: transparent;
+}
+
+.general-link:hover {
+  outline: 0;
+  text-decoration: none;
+  color: transparent;
+}
+
+.header-nav-link {
+  outline: 0;
+  text-decoration: none;
+  color: black;
+}
+
+.header-nav-link::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #0fff95;
+  transition: width 0.3s;
+}
+
+.header-nav-link:hover {
+  text-decoration: none;
+  color: rgb(77, 76, 76);
+}
+
+.header-nav-link:hover::after {
+  width: 100%;
+}
+
+.footer-container {
+  margin: auto 0 0 0;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: var(--black-color);
+}
+
+.footer-top {
+  margin: 2vw 5vw 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.gh-logo {
+  height: 40px;
+  width: 40px;
+  background-color: black;
+}
+
+.millennium-pendant {
+  height: 40px;
+  width: 40px;
+}
+
+.footer-bottom {
+  color: white;
+  margin: 2vw 5vw 3vw;
+}
+
+@media (max-width: 482px) {
+  .header-nav {
+    height: auto;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .header-nav-logo {
+    margin-top: 20px;
+  }
+
+  .header-nav-navigation {
+    margin: 10px 0;
+  }
+}

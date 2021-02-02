@@ -1,0 +1,257 @@
+:root {
+  --varela: "Varela Round", sans-serif;
+  --jetbrains: "JetBrains Mono", monospace;
+  --black-color: black;
+  --white-color: rgb(255, 255, 255);
+  --primary-font-color: rgb(30, 35, 55);
+  --font-size-primary: 48px;
+  --font-size-secondary: 26px;
+  --font-size-third: 24px;
+  --font-size-text-mobile: 17px;
+}
+
+body {
+  font-family: var(--varela), "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-flow: column wrap;
+  min-height: 100vh;
+}
+
+.header-container {
+  margin: 0;
+  padding: 0;
+  background-color: var(--white-color);
+}
+
+.header-nav {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  margin: 0 5vw;
+  height: 60px;
+}
+
+.header-nav-logo {
+  order: 1;
+}
+
+.image-logo {
+  width: auto;
+  height: 50px;
+}
+
+.header-nav-navigation {
+  order: 2;
+  margin-left: auto;
+}
+
+.header-nav-navigation-list {
+  display: flex;
+  flex-flow: row wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-nav-navigation-item {
+  margin: 0 10px;
+}
+
+.general-link {
+  outline: 0;
+  text-decoration: none;
+  color: transparent;
+}
+
+.general-link:hover {
+  outline: 0;
+  text-decoration: none;
+  color: transparent;
+}
+
+.header-nav-link {
+  outline: 0;
+  text-decoration: none;
+  color: black;
+}
+
+.header-nav-link::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #0fff95;
+  transition: width 0.3s;
+}
+
+.header-nav-link:hover {
+  text-decoration: none;
+  color: rgb(77, 76, 76);
+}
+
+.header-nav-link:hover::after {
+  width: 100%;
+}
+
+.container-fluid {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.container-about {
+  background: var(--primary-font-color);
+  color: var(--white-color);
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 5vw 5vw;
+  font-size: var(--font-size-secondary);
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.title-main {
+  font-size: var(--font-size-primary);
+  font-family: var(--jetbrains);
+}
+
+.text-info {
+  max-width: 700px;
+  line-height: 36px;
+}
+
+.container-space {
+  margin: 0;
+  padding: 0;
+  height: 600px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/lost_memories.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-shadow: 2px 2px 6px black;
+}
+
+.container-contribution {
+  height: auto;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+}
+
+.btn {
+  display: inline-block;
+  border-radius: 4px;
+  padding: 10px 10px;
+  margin: 20px 0;
+  width: auto;
+  text-decoration: none;
+  font-size: var(--font-size-secondary);
+}
+
+.btn-white {
+  background: white;
+  color: black;
+  border: 2px solid white;
+}
+
+.btn-white:hover {
+  text-decoration: none;
+  color: black;
+  border-color: #dae0e5;
+  background: #e2e6ea;
+}
+
+.btn-white:focus {
+  box-shadow: 0 0 0 0.2rem rgba(216, 217, 219, 0.5);
+}
+
+.container-thanks {
+  color: var(--primary-font-color);
+  background-color: #f9f0f0;
+}
+
+.link {
+  outline: 0;
+  text-decoration: none;
+  color: #5a0fff;
+}
+
+.link:hover {
+  outline: 0;
+  text-decoration: none;
+  color: #450cc1;
+}
+
+.footer-container {
+  margin: auto 0 0 0;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: var(--black-color);
+}
+
+.footer-top {
+  margin: 2vw 5vw 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.gh-logo {
+  height: 40px;
+  width: 40px;
+  background-color: black;
+}
+
+.millennium-pendant {
+  height: 40px;
+  width: 40px;
+}
+
+.footer-bottom {
+  color: white;
+  margin: 2vw 5vw 3vw;
+}
+
+@media (max-width: 779px) {
+  .title-main {
+    font-size: var(--font-size-third);
+  }
+
+  .text-info {
+    font-size: var(--font-size-text-mobile);
+    line-height: 29px;
+  }
+
+  .footer-bottom {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 482px) {
+  .header-nav {
+    height: auto;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .header-nav-logo {
+    margin-top: 20px;
+  }
+
+  .header-nav-navigation {
+    margin: 10px 0;
+  }
+
+  .btn {
+    font-size: var(--font-size-text-mobile);
+  }
+}

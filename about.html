@@ -12,15 +12,14 @@
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="public/css/normalize.css" />
-  <link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="public/css/home.css" />
+  <link rel="stylesheet" href="public/css/about.css" />
 </head>
 
-<body class="bg-light d-flex flex-column min-vh-100">
+<body>
   <header class="header-container">
     <nav class="header-nav">
       <div class="header-nav-logo">
-        <a class="header-nav-link" href="index.html">
+        <a class="general-link" href="index.html">
           <img class="image-logo" src="public/images/logo.png" alt="Yu-Gi-Oh! Forbiden Memories Logo" />
         </a>
       </div>
@@ -40,96 +39,84 @@
       </div>
     </nav>
   </header>
+
   <main class="container-fluid">
-    <section class="row container-about">
-      <div class="container-about-box col">
-        <h2 class="text-center mb-5 text-main">ABOUT</h2>
-
-        <p class="text-about">
-          Yu-Gi-Oh! Forbidden Memories is a terrible game with a terrible mechanic called
-          "fusions." Fusions allow the player to fuse two cards together to get a new,
-          hopefully more powerful card.
+    <section class="container-about">
+      <div class="wrapper">
+        <h2 class="title-main">ABOUT</h2>
+        <p class="text-info">
+          First of all, due to inactive maintenance in the original repository, I decided to added some style, and make
+          it look more good, also made some changes in the actual code...
         </p>
-
-        <p class="text-about">
-          But, since it's a terrible game, YGO:FM does nothing to actually
-          <em>tell</em> you about the fusions. Your options are to either try every card
-          against every other card (and by the way there's over 720 cards in the game) or to
-          look it up online. Oh, and the game doesn't try to record the fusions at all. And
-          since one card might fuse with a few hundred other cards, trying to find out which
-          ones are worth it is tedious.
-        </p>
-
-        <p class="text-about">
-          The real motivation for this project is Giver336's LP of the game on Something Awful.
-          His co-commentator, General Yeti, mused about the possibility of a program to find
-          the fusions for you. Here it is!
+        <p class="text-info">
+          YGO-FM does nothing to actually <b>tell</b> you about the fusions. Your options are to either try every card
+          against every other card (and by the way there's over 720 cards in the game), and since one card might fuse
+          with a few hundred other cards, trying to find out which
+          ones are worth it, is tedious.
         </p>
       </div>
     </section>
-    <section class="row" id="container-space"></section>
-    <section class="row" id="container-contribution">
-      <div class="col text-center my-4 mx-5">
-        <h2 class="mt-4 mb-5 text-main">CONTRIBUTION</h2>
-
-        <p>
-          Get involved with Forbidden Memories FC development by opening an issue or submitting
+    <section class="container-space"></section>
+    <section class="container-contribution">
+      <div class="wrapper">
+        <h2 class="title-main">CONTRIBUTION</h2>
+        <p class="text-info">
+          Get involved with Forbidden Memories Database development by opening an issue or submitting
           a pull request.
         </p>
-        <p>For more info check the README on the repository.</p>
+        <p class="text-info">For more info check the README on the repository.</p>
 
-        <a class="btn btn-light mt-4" href="https://github.com/Solumin/YGO-FM-FusionCalc" rel="noopener noreferrer"
+        <a class="btn btn-white" href="https://github.com/falsepopsky/YGO-FM-Database/" rel="noopener noreferrer"
           target="_blank">GitHub Repository</a>
       </div>
     </section>
-
-    <section class="row">
-      <div class="col my-4 mx-5">
-        <h2 class="text-center mt-4 mb-5 text-main">SPECIAL THANKS</h2>
-
-        <p>
-          <strong>Steve Kalynuik, Dylan Birtolo and Miguel Balauag</strong>, authors of the
-          <a href="https://www.gamefaqs.com/ps/561010-yu-gi-oh-forbidden-memories/faqs/16613" rel="noopener noreferrer"
-            target="_blank">Fusion FAQ</a>, and the <strong>Yu-Gi-Oh! Wikia</strong>, which provided the data that I
-          used to
-          create the first version of this calculator.
+    <section class="container-thanks">
+      <div class="wrapper">
+        <h2 class="title-main">SPECIAL THANKS</h2>
+        <p class="text-info">
+          <b>Steve Kalynuik, Dylan Birtolo and Miguel Balauag</b>, authors of the
+          <a class="link" href="https://www.gamefaqs.com/ps/561010-yu-gi-oh-forbidden-memories/faqs/16613"
+            rel="noopener noreferrer" target="_blank">Fusion FAQ</a>, and the <b>Yu-Gi-Oh! Wikia</b>, which provided the
+          first database.
         </p>
-        <p>
-          <a href="https://github.com/CathodeRaymond" rel="noopener noreferrer" target="_blank">CathodeRaymond</a>
-          for work with CSS and making the project actually look good.
+        <p class="text-info">
+          <a class="link" href="https://github.com/CathodeRaymond" rel="noopener noreferrer"
+            target="_blank">CathodeRaymond</a>
+          for working with the first design of the project and making the project actually look good.
         </p>
-        <p>
-          <a href="https://github.com/duke1102" rel="noopener noreferrer" target="_blank">duke1102</a>
+        <p class="text-info">
+          <a class="link" href="https://github.com/duke1102" rel="noopener noreferrer" target="_blank">duke1102</a>
           for providing the complete card and fusion data, without which this project would be
           very inaccurate.
         </p>
-        <p>
-          <a href="https://www.deviantart.com/marcos0000" rel="noopener noreferrer" target="_blank">marcos0000</a>
+        <p class="text-info">
+          <a class="link" href="https://www.deviantart.com/marcos0000" rel="noopener noreferrer"
+            target="_blank">marcos0000</a>
           for Forbidden Memories Logo in HD and
-          <a href="https://www.deviantart.com/Carlos123321" rel="noopener noreferrer" target="_blank">Carlos123321</a>
+          <a class="link" href="https://www.deviantart.com/Carlos123321" rel="noopener noreferrer"
+            target="_blank">Carlos123321</a>
           for vrains background.
         </p>
-        <p><strong>Giver336</strong> for the .gif</p>
-        <p>
-          <a href="https://github.com/falsepopsky" rel="noopener noreferrer" target="_blank">falsepopsky</a>.
-        </p>
+        <p class="text-info"><b>Giver336</b> for the .gif</p>
       </div>
     </section>
   </main>
+
   <footer class="footer-container">
-    <section class="footer-bottom">
-      <a class="d-inline m-0 p-0 text-decoration-none" href="index.html" rel="noopener noreferrer">
+    <section class="footer-top">
+      <a class="general-link" href="https://github.com/falsepopsky/YGO-FM-Database/" rel="noopener noreferrer"
+        target="_blank">
+        <img loading="lazy" class="gh-logo" src="https://img.icons8.com/fluent/48/000000/github.png"
+          alt="GitHub Repo" />
+      </a>
+      <a class="general-link" href="index.html" rel="noopener noreferrer">
         <img loading="lazy" class="millennium-pendant" src="public/images/item.png" alt="millennium-pendant" />
       </a>
-      <p class="my-3 text-white d-inline">Yu-Gi-Oh! Forbiden Memories Database © 2021</p>
-      <a class="d-inline m-0 p-0 text-decoration-none" href="https://github.com/falsepopsky/YGO-FM-Database/"
-        rel="noopener noreferrer" target="_blank">
-        <img loading="lazy" class="gh-logo" src="https://simpleicons.org/icons/github.svg" alt="GitHub Repo" />
-      </a>
+    </section>
+    <section class="footer-bottom">
+      <p>Yu-Gi-Oh! Forbiden Memories Database © 2021</p>
     </section>
   </footer>
-  <script type="text/javascript" src="public/js/jquery-3.5.1.min.js"></script>
-  <script type="text/javascript" src="public/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
