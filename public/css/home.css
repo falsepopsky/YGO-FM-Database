@@ -74,7 +74,7 @@ body {
     color: black;
 }
 
-.header-nav-link::after:not(:first-child) {
+.header-nav-link::after {
     content: "";
     display: block;
     width: 0;
@@ -85,10 +85,10 @@ body {
 
 .header-nav-link:hover {
     text-decoration: none;
-    color: rgb(49, 49, 49);
+    color: rgb(77, 76, 76);
 }
 
-.header-nav-link:hover::after:not(:first-child) {
+.header-nav-link:hover::after {
     width: 100%;
 }
 
@@ -111,18 +111,25 @@ body {
 .wrapper-container {
     display: flex;
     flex-flow: row wrap;
+    align-items: center;
     margin: 3vw 5vw;
 }
 
-.box-main {
+.box-title {
     order: 1;
+    flex: 1 1 100%;
+}
+
+.box-main {
+    order: 2;
     width: auto;
     align-self: center;
+    flex: 1 1 50%;
 }
 
 .hero-box-psx-cover {
     width: auto;
-    order: 2;
+    order: 3;
     margin-left: auto;
 }
 
@@ -134,7 +141,7 @@ body {
 .general-text-info {
     font-family: var(--varela);
     font-size: var(--font-size-secondary);
-    margin: 0 0 0 20px;
+    margin: 30px 0 0 20px;
     max-width: 500px;
 }
 
@@ -149,14 +156,11 @@ body {
 .cover-playstation {
     width: 100%;
     height: auto;
+    user-select: none;
 }
 
 .cover-playstation:hover {
     box-shadow: 0px 1px 0px #00a8e7, 0px 0px 5px 0px #00a8e7, 0px 0px 1px 0px #00a8e7;
-}
-
-#reset-btn {
-    width: 180px;
 }
 
 .container-fusion-search {
@@ -175,6 +179,7 @@ body {
 
 .img-group {
     pointer-events: none;
+    user-select: none;
 }
 
 .container-fusion-calculator {
@@ -203,19 +208,6 @@ body {
 .about-box-kaiba {
     order: 2;
     margin-left: auto;
-}
-
-.container-about-box {
-    display: flex;
-    flex-flow: column wrap;
-    margin: 5vw 5vw;
-    justify-content: center;
-    align-content: center;
-}
-
-.text-about {
-    font-size: var(--font-size-secondary);
-    max-width: 800px;
 }
 
 .about-title {
@@ -254,12 +246,6 @@ body {
     background-color: var(--black-color);
 }
 
-.millennium-pendant {
-    height: 1rem;
-    width: 1rem;
-    margin-left: 10px;
-}
-
 .gh-logo {
     height: 1rem;
     width: 1rem;
@@ -267,26 +253,28 @@ body {
     margin-left: 10px;
 }
 
-@media (max-width: 1024px) and (orientation: landscape) {
-    .wrapper-container {
-        flex-wrap: nowrap;
-        align-items: center;
-    }
+.millennium-pendant {
+    height: 1rem;
+    width: 1rem;
+    margin-left: 10px;
+}
 
-    .hero-box-main {
-        width: 420px;
-    }
-
+@media (max-width: 1224px) {
     .cover-playstation {
-        height: 366px;
+        width: 366px;
     }
 
+    .gif-fusion {
+        width: 400px;
+    }
+}
+
+@media (max-width: 1024px) and (orientation: landscape) {
     .main-title {
         font-size: 32px;
     }
 
     .general-text-info {
-        margin-top: 30px;
         font-size: 20px;
     }
 }
@@ -330,9 +318,5 @@ body {
 
     .header-nav-navigation {
         margin: 10px 0;
-    }
-
-    .hero-box-psx-cover {
-        display: none;
     }
 }
