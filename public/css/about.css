@@ -130,7 +130,7 @@ body {
   padding: 0;
   height: 600px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/lost_memories.jpg");
+    url("../images/background/lost_memories.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

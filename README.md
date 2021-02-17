@@ -1,33 +1,15 @@
-## Yu-Gi-Oh! Forbidden Memories Database
+# Yu-Gi-Oh! Forbidden Memories Database
 
-Version: 1.0
-
-Forked from [GitHub Repository](https://github.com/Solumin/YGO-FM-FusionCalc) original author [Solumin](https://github.com/Solumin). Due to Inactive maintenance, I decided to added some style, and make it look more great, also made some changes in the actual code...
+Forked from [GitHub Repository](https://github.com/Solumin/YGO-FM-FusionCalc) original author [Solumin](https://github.com/Solumin).
+Due to Inactive maintenance, I decided to added some style, and make it look more great, also made some changes in the actual code...
 
 **How to Use the YGO-FM DATABASE**
 
 Visit [Yu-Gi-Oh! Forbidden Memories Database](https://falsepopsky.github.io/YGO-FM-Database/) on GH Pages and then you can swap from search cards from the database or input your hand and discover what type of fusion you can do.
 
-### Contributing
+## Contributing
 
 Feel free to fork and send pull requests.
-
-### Project Notes
-
-All data for the project is in the `data` directory, and it is all derived from
-`Cards.json` into a series of lists, using `scripts/make_databases.rb`.
-
-- `cards.js` loads `Cards.json` into a [TaffyDB](http://www.taffydb.com/)
-  instance
-- `fusions.js` loads the list of fusions for each card into a list.
-- `equips.js` loads the list of equips for each card into a list. If the card
-  can _equip_ items, its entry is the list of Equip-type cards that it can be
-  used with. If the card is an _Equip-type_ card, its entry is the list of cards
-  it can be equipped onto.
-- `results.js` loads the list of fusions for each card that the card is the
-  result of.
-- `types_and_stars.js` has two lists that map indexes to the card types (Beast,
-  Spellcaster, Dragon, etc.) and to star names. (Neptune, Moon, etc.)
 
 ## Special Thanks:
 

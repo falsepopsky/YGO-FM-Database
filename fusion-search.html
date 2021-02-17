@@ -4,20 +4,21 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Yu-Gi-Oh! Forbiden Memories fusion list" />
-  <meta name="keywords" content="Yu-Gi-Oh!, YuGiOh, Forbiden Memories, playstation, Fusion" />
+  <meta name="description" content="Yu-Gi-Oh! Forbiden Memories Database Fusion" />
+  <meta name="keywords" content="Yu-Gi-Oh!, YuGiOh, Forbiden Memories, playstation, fusion, database" />
   <title>Fusion Search</title>
-  <link rel="icon" type="image/x-icon" href="public/images/yugioh.ico" />
+  <link rel="icon" type="image/x-icon" href="public/images/favicon.ico" />
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="public/css/normalize.css" />
-  <link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css" />
+  <!--
+  <link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css" /> -->
   <link rel="stylesheet" type="text/css" href="public/css/fusion.css" />
   <link rel="stylesheet" type="text/css" href="public/css/awesomplete.css" />
 </head>
 
-<body class="bg-dark d-flex flex-column min-vh-100 polymerization">
+<body class="polymerization">
   <header class="header-container">
     <nav class="header-nav">
       <div class="header-nav-logo">
@@ -42,48 +43,53 @@
     </nav>
   </header>
 
-  <main class="container">
-    <section class="row mt-3 rounded-lg bg-light">
-      <div class="col">
-        <h2 class="text-main my-5 text-center">SEARCH</h2>
-        <div class="row my-3">
-          <div class="col-sm-8 offset-sm-1 col-md-5 offset-md-1 d-flex flex-column">
-            <p>Type the card name</p>
-            <input class="w-100" type="text" id="cardname" />
-
-            <div class="btn-group my-5" role="group">
-              <button type="button" class="btn btn-outline-success" id="search-name-btn">
-                Search by Name
-              </button>
-
-              <button type="button" class="btn btn-outline-success" id="search-results-btn">
-                Search by Result
-              </button>
-
-              <button type="button" class="btn btn-danger" id="reset-btn">
-                Reset All
-              </button>
+  <main class="main-container">
+    <section class="search-container">
+      <div class="wrapper">
+        <div class="search-title">
+          <h2 class="main-title">SEARCH</h2>
+        </div>
+        <div class="search-input">
+          <div class="box-input">
+            <div class="content-item">
+              <input class="input-search" type="text" id="cardname" placeholder="Type the name of the card..." />
+            </div>
+            <div class="content-item btn-group-search">
+              <button type="button" class="btn search" id="search-name-btn">Search by name</button>
+              <button type="button" class="btn search" id="search-results-btn">Search for result</button>
+            </div>
+            <div class="content-item">
+              <button type="button" class="btn reset" id="reset-btn">RESET ALL</button>
             </div>
           </div>
-          <div class="col-sm-10 offset-sm-1 col-md-4 offset-md-1 d-flex justify-content-center">
-            <div id="outputcard"></div>
+          <div class="box-card">
+            <div id="outputcard">
+              <!--   <div class="card-box">
+                <h3 class="card-title">Kuriboh</h3>
+                <p class="card-text">By itself, this small creature may not seem like much. But in the dark, it attacks
+                  in numbers as a formidable force.</p>
+                <p class="card-text"><strong>ATK / DEF:</strong> 400 / 300</p>
+                <p class="card-text"><strong>Type:</strong> fiend</p>
+                <p class="card-text"><strong>Stars:</strong> 10</p>
+                <p class="card-text"><strong>Password:</strong> 40640057</p>
+              </div> -->
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="row rounded-lg my-4 bg-light">
-      <div class="col text-center">
-        <h2 class="text-main my-5">RESULTS</h2>
-        <span id="search-msg"></span>
+    <section class="results-container">
+      <div class="wrapper">
+        <div class="search-title">
+          <h2 class="main-title">RESULTS</h2>
+          <span id="search-msg"></span>
+        </div>
 
-        <div class="row">
-          <div class="col-sm d-flex justify-content-center">
-            <div id="output-area-left"></div>
-          </div>
-          <div class="col-sm d-flex justify-content-center">
-            <div id="output-area-right"></div>
-          </div>
+        <div class="cards-collection">
+          <div id="output-area-left"></div>
+
+          <div id="output-area-right"></div>
         </div>
       </div>
     </section>
