@@ -29,20 +29,40 @@ function createDangerMessage(input) {
 // Display card beside search bar
 function createSideCard(card) {
   let modelCard = `<div class="card-box">
-                    <h3 class="card-title">${card.Name}</h3>
-                    <p class="card-text">${card.Description}</p>
-                    <p class="card-text"><strong>ATK / DEF:</strong> ${card.Attack} / ${
-    card.Defense
-  }</p>
-                    <p class="card-text"><strong>Type:</strong> ${cardTypes[card.Type]}</p>
-                    <p class="card-text"><strong>Stars:</strong> ${card.Stars}</p>
-                    <p class="card-text"><strong>Password:</strong> ${card.CardCode}</p>
-                    </div>`;
+                  <h3 class="card-title">${card.Name}</h3>
+                  <p class="card-description">${card.Description}</p>
+                  <div class="card-item">
+                  <div class="card-subitem">
+                  <img src="public/images/icons/${
+                    cardTypes[card.Type]
+                  }.png" alt="type icon" class="card-icons" width="20" height="20" />
+                  <p class="card-text">${cardTypes[card.Type]}</p>
+                  </div>
+                  <div class="card-subitem">
+                  <img src="public/images/icons/sword.svg" alt="type icon" class="card-icons" width="20" height="20" />
+                  <p class="card-text">ATK ${card.Attack} /</p>
+                  <img src="public/images/icons/shield.svg" alt="type icon" class="card-icons" width="20" height="20" />
+                  <p class="card-text">DEF ${card.Defense}</p>
+                  </div>
+                  </div>
+                  <div class="card-item">
+                  <img src="public/images/icons/star.svg" alt="type icon" class="card-icons" width="20" height="20" />
+                  <p class="card-text">Starchip ${card.Stars}</p>
+                  <img src="public/images/icons/padlock.svg" alt="type icon" class="card-icons" width="20" height="20" />
+                  <p class="card-text">${card.CardCode}</p>
+                  </div>
+                  </div>`;
+  console.log(modelCard);
   if (isMonster(card) === true) {
     return modelCard;
   } else {
     let notMonsterCard = modelCard.replace(
-      `<p class="card-text"><strong>ATK / DEF:</strong> ${card.Attack} / ${card.Defense}</p>`,
+      `<div class="card-subitem">
+      <img src="public/images/icons/sword.svg" alt="type icon" class="card-icons" width="20" height="20" />
+      <p class="card-text">ATK ${card.Attack} /</p>
+      <img src="public/images/icons/shield.svg" alt="type icon" class="card-icons" width="20" height="20" />
+      <p class="card-text">DEF ${card.Defense}</p>
+      </div>`,
       ""
     );
     return notMonsterCard;

@@ -226,10 +226,50 @@ body {
 .card-box {
   display: flex;
   flex-flow: column wrap;
+  align-items: center;
   max-width: 540px;
   word-wrap: break-word;
   background-color: #fff;
   border-radius: 4px;
+  color: rgb(72, 72, 72);
+}
+
+.card-title {
+  font-size: 26px;
+  color: black;
+}
+
+.card-description {
+  font-size: 18px;
+  margin: 0 0 30px;
+  padding: 0 40px;
+}
+
+.card-item {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.card-subitem {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 10px;
+  align-items: center;
+}
+
+.card-icons {
+  height: 20px;
+  width: 20px;
+  margin-left: 4px;
+  margin-right: 6px;
+}
+
+.card-text {
+  margin: 0;
+  font-size: 19px;
 }
 
 .alert-danger {
