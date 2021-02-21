@@ -212,8 +212,22 @@ body {
   background-color: #3eea45;
 }
 
+.search:focus {
+  color: black;
+  background-color: #3eea45;
+  border-color: #9effa2;
+  box-shadow: 0 0 0 0.2rem #9effa2;
+}
+
 .reset {
   background-color: #ea3e3e;
+}
+
+.reset:focus {
+  color: black;
+  background-color: #ea3e3e;
+  border-color: #ff6464;
+  box-shadow: 0 0 0 0.2rem #ff6464;
 }
 
 .box-card {
@@ -299,6 +313,37 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.sub-title {
+  font-size: var(--font-size-secondary);
+  font-family: var(--jetbrains);
+  margin: 48px;
+  color: white;
+}
+
+.card-fusion-equip {
+  margin-bottom: 10px;
+  min-width: 18rem;
+  background-color: white;
+  border-radius: 4px;
+  border: solid 2px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-textplus {
+  margin: 6px 0 0;
+  font-size: 18px;
+  color: rgb(39, 39, 39);
+}
+
+.card-result {
+  font-size: 19px;
+  font-weight: bold;
+  margin: 0 0 8px;
 }
 
 .footer-container {

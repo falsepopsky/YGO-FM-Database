@@ -262,16 +262,16 @@ body {
   user-select: none;
 }
 
-.container-fusion-calculator {
+.container-deck-check {
   background-color: rgb(255, 134, 82);
   color: rgb(122, 10, 0);
 }
 
-.fusion-calculator {
+.deck-check {
   background-color: var(--white-color);
 }
 
-.fusion-calculator:hover {
+.deck-check:hover {
   background-color: rgb(223, 97, 5);
 }
 

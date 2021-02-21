@@ -14,9 +14,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Mystical Elf",
@@ -1149,9 +1147,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Hitotsu-me Giant",
@@ -1219,9 +1215,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Baby Dragon",
@@ -2789,9 +2783,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Ryu-kishin",
@@ -3014,9 +3006,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Feral Imp",
@@ -3089,9 +3079,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Winged Dragon #1",
@@ -4649,9 +4637,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Mushroom Man",
@@ -5489,9 +5475,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Shadow Specter",
@@ -6269,9 +6253,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Blackland Fire Dragon",
@@ -7489,9 +7471,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Sword Arm of Dragon",
@@ -8399,9 +8379,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Swamp Battleguard",
@@ -8569,9 +8547,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Tyhone",
@@ -8789,9 +8765,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Battle Steer",
@@ -8808,9 +8782,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Flame Swordsman",
@@ -9473,9 +9445,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Time Wizard",
@@ -9823,9 +9793,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Right Leg of the Forbidden One",
@@ -10183,9 +10151,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Left Leg of the Forbidden One",
@@ -10543,9 +10509,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Right Arm of the Forbidden One",
@@ -10903,9 +10867,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Left Arm of the Forbidden One",
@@ -11263,9 +11225,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Exodia the Forbidden",
@@ -11623,9 +11583,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Summoned Skull",
@@ -11648,9 +11606,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "The Wicked Worm Beast",
@@ -11823,9 +11779,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Skull Servant",
@@ -12578,9 +12532,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Horn Imp",
@@ -12648,9 +12600,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Battle Ox",
@@ -12673,9 +12623,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Beaver Warrior",
@@ -12692,9 +12640,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Rock Ogre Grotto #1",
@@ -13402,9 +13348,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Mountain Warrior",
@@ -13421,9 +13365,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Zombie Warrior",
@@ -14036,9 +13978,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Koumori Dragon",
@@ -15211,9 +15151,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Two-headed King Rex",
@@ -15401,9 +15339,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Judge Man",
@@ -15420,9 +15356,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Saggi the Dark Clown",
@@ -15770,9 +15704,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark Magician",
@@ -15789,9 +15721,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "The Snake Hair",
@@ -16014,9 +15944,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Gaia the Dragon Champion",
@@ -16099,9 +16027,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Gaia the Fierce Knight",
@@ -16124,9 +16050,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Curse of Dragon",
@@ -16314,9 +16238,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dragon Piper",
@@ -17099,9 +17021,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Celtic Guardian",
@@ -17749,9 +17669,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Illusionist Faceless Mage",
@@ -17934,9 +17852,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Karbonala Warrior",
@@ -18139,9 +18055,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Rogue Doll",
@@ -18229,9 +18143,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Oscillo Hero #2",
@@ -18934,9 +18846,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Griffore",
@@ -19804,9 +19714,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Torike",
@@ -20674,9 +20582,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Sangan",
@@ -20759,9 +20665,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Big Insect",
@@ -20784,9 +20688,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Basic Insect",
@@ -20874,9 +20776,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Armored Lizard",
@@ -20909,9 +20809,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Hercules Beetle",
@@ -20934,9 +20832,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Killer Needle",
@@ -20959,9 +20855,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Gokibore",
@@ -20984,9 +20878,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Giant Flea",
@@ -21009,9 +20901,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Larvae Moth",
@@ -21099,9 +20989,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Great Moth",
@@ -21118,9 +21006,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kuriboh",
@@ -21208,9 +21094,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mammoth Graveyard",
@@ -21568,9 +21452,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Great White",
@@ -21768,9 +21650,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Wolf",
@@ -22633,9 +22513,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Harpie Lady",
@@ -23373,9 +23251,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Harpie Lady Sisters",
@@ -23663,9 +23539,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Tiger Axe",
@@ -23688,9 +23562,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Silver Fang",
@@ -24548,9 +24420,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kojikocy",
@@ -24753,9 +24623,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Perfectly Ultimate Great Moth",
@@ -24772,9 +24640,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Garoozis",
@@ -25282,9 +25148,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Thousand Dragon",
@@ -25362,9 +25226,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Fiend Kraken",
@@ -25597,9 +25459,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Jellyfish",
@@ -25752,9 +25612,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Cocoon of Evolution",
@@ -25842,9 +25700,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kairyu-shin",
@@ -26472,9 +26328,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Giant Soldier of Stone",
@@ -26877,9 +26731,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Man-eating Plant",
@@ -27647,9 +27499,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Krokodilus",
@@ -27682,9 +27532,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Grappler",
@@ -27717,9 +27565,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Axe Raider",
@@ -27917,9 +27763,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Megazowler",
@@ -27936,9 +27780,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Uraby",
@@ -28126,9 +27968,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Crawling Dragon #2",
@@ -29246,9 +29086,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Red-eyes B. Dragon",
@@ -29331,9 +29169,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Castle of Dark Illusions",
@@ -29441,9 +29277,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Reaper of the Cards",
@@ -29506,9 +29340,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "King of Yamimakai",
@@ -29531,9 +29363,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Barox",
@@ -29561,9 +29391,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark Chimera",
@@ -29591,9 +29419,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Metal Guardian",
@@ -29681,9 +29507,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Catapult Turtle",
@@ -30206,9 +30030,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Gyakutenno Megami",
@@ -30431,9 +30253,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Mystic Horseman",
@@ -31101,9 +30921,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Rabid Horseman",
@@ -31120,9 +30938,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Zanki",
@@ -31320,9 +31136,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Crawling Dragon",
@@ -32435,9 +32249,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Crass Clown",
@@ -32515,9 +32327,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Armored Zombie",
@@ -32720,9 +32530,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dragon Zombie",
@@ -33895,9 +33703,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Clown Zombie",
@@ -34370,9 +34176,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Pumpking the King of Ghosts",
@@ -34475,9 +34279,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Battle Warrior",
@@ -35145,9 +34947,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Wings of Wicked Flame",
@@ -35750,9 +35550,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Mask of Darkness",
@@ -35855,9 +35653,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Job-change Mirror",
@@ -36250,9 +36046,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Curtain of the Dark Ones",
@@ -36580,9 +36374,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Tomozaurus",
@@ -36770,9 +36562,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Spirit of the Winds",
@@ -36845,9 +36635,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Kageningen",
@@ -37455,9 +37243,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Graveyard and the Hand of Invitation",
@@ -38195,9 +37981,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Goddess with the Third Eye",
@@ -38815,9 +38599,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Hero of the East",
@@ -39415,9 +39197,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Doma The Angel of Silence",
@@ -39655,9 +39435,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "That Which Feeds on Life",
@@ -39740,9 +39518,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark Gray",
@@ -40600,9 +40376,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "White Magical Hat",
@@ -40780,9 +40554,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Kamion Wizard",
@@ -41015,9 +40787,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Nightmare Scorpion",
@@ -41040,9 +40810,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Spirit of the Books",
@@ -41215,9 +40983,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Supporter in the Shadows",
@@ -41810,9 +41576,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Trial of Nightmares",
@@ -41875,9 +41639,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dream Clown",
@@ -42470,9 +42232,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Sleeping Lion",
@@ -43320,9 +43080,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Yamatano Dragon Scroll",
@@ -44640,9 +44398,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Dark Plant",
@@ -45345,9 +45101,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Ancient Tool",
@@ -45455,9 +45209,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Faith Bird",
@@ -45650,9 +45402,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Orion the Battle King",
@@ -45669,9 +45419,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Ansatsu",
@@ -45864,9 +45612,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "LaMoon",
@@ -46524,9 +46270,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Nemuriko",
@@ -47219,9 +46963,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Weather Control",
@@ -47444,9 +47186,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Octoberser",
@@ -47534,9 +47274,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "The 13th Grave",
@@ -48039,9 +47777,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Charubin the Fire Knight",
@@ -48504,9 +48240,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Mystical Capture Chain",
@@ -48729,9 +48463,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Fiend's Hand",
@@ -49339,9 +49071,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Witty Phantom",
@@ -49414,9 +49144,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mystery Hand",
@@ -49494,9 +49222,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dragon Statue",
@@ -50929,9 +50655,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Blue-eyed Silver Zombie",
@@ -51534,9 +51258,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Toad Master",
@@ -51664,9 +51386,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Spiked Snail",
@@ -51784,9 +51504,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Flame Manipulator",
@@ -52364,9 +52082,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Necrolancer the Timelord",
@@ -52519,9 +52235,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Djinn the Watcher of the Wind",
@@ -52674,9 +52388,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "The Bewitching Phantom Thief",
@@ -52829,9 +52541,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Temple of Skulls",
@@ -53429,9 +53139,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Monster Egg",
@@ -54084,9 +53792,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "The Shadow Who Controls the Dark",
@@ -54174,9 +53880,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Lord of the Lamp",
@@ -54244,9 +53948,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Akihiron",
@@ -54329,9 +54031,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Rhaimundos of the Red Sword",
@@ -54879,9 +54579,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "The Melting Red Shadow",
@@ -55019,9 +54717,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Dokuroizo the Grim Reaper",
@@ -55594,9 +55290,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Fire Reaper",
@@ -56419,9 +56113,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Larvas",
@@ -56729,9 +56421,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Hard Armor",
@@ -57319,9 +57009,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Firegrass",
@@ -58144,9 +57832,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Man Eater",
@@ -58774,9 +58460,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dig Beak",
@@ -58979,9 +58663,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "M-warrior #1",
@@ -59504,9 +59186,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "M-warrior #2",
@@ -60084,9 +59764,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Tainted Wisdom",
@@ -60139,9 +59817,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Lisark",
@@ -60314,9 +59990,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Lord of Zemia",
@@ -60389,9 +60063,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "The Judgement Hand",
@@ -60999,9 +60671,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Mysterious Puppeteer",
@@ -61519,9 +61189,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ancient Jar",
@@ -62094,9 +61762,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Darkfire Dragon",
@@ -63239,9 +62905,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark King of the Abyss",
@@ -63314,9 +62978,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Spirit of the Harp",
@@ -63534,9 +63196,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Big Eye",
@@ -63564,9 +63224,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Armaill",
@@ -64454,9 +64112,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dark Prisoner",
@@ -64544,9 +64200,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Hurricail",
@@ -64684,9 +64338,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Ancient Brain",
@@ -64914,9 +64566,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Fire Eye",
@@ -65394,9 +65044,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Monsturtle",
@@ -65874,9 +65522,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Claw Reacher",
@@ -65964,9 +65610,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Phantom Dewan",
@@ -66239,9 +65883,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Arlownay",
@@ -67244,9 +66886,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dark Shade",
@@ -67284,9 +66924,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Masked Clown",
@@ -67844,9 +67482,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Lucky Trinket",
@@ -67999,9 +67635,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Genin",
@@ -68134,9 +67768,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Eyearmor",
@@ -68684,9 +68316,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Fiend Refrection #2",
@@ -68859,9 +68489,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Gate Deeg",
@@ -69089,9 +68717,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Synchar",
@@ -69819,9 +69445,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Fusionist",
@@ -70679,9 +70303,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Akakieisu",
@@ -70954,9 +70576,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "LaLa Li-oon",
@@ -71499,9 +71119,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Key Mace",
@@ -72044,9 +71662,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Turtle Tiger",
@@ -72424,9 +72040,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Terra the Terrible",
@@ -72474,9 +72088,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Doron",
@@ -72964,9 +72576,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Arma Knight",
@@ -73084,9 +72694,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Mech Mole Zombie",
@@ -73554,9 +73162,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Happy Lover",
@@ -73899,9 +73505,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Penguin Knight",
@@ -74019,9 +73623,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Petit Dragon",
@@ -75089,9 +74691,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Frenzied Panda",
@@ -75764,9 +75364,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Air Marmot of Nefariousness",
@@ -76499,9 +76097,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Phantom Ghost",
@@ -76964,9 +76560,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mabarrel",
@@ -76983,9 +76577,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dorover",
@@ -77098,9 +76690,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Twin Long Rods #1",
@@ -77223,9 +76813,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Droll Bird",
@@ -77358,9 +76946,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Petit Angel",
@@ -77683,9 +77269,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Winged Cleaver",
@@ -77738,9 +77322,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Hinotama Soul",
@@ -78178,9 +77760,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Kaminarikozou",
@@ -78688,9 +78268,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Meotoko",
@@ -78888,9 +78466,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Aqua Madoor",
@@ -79003,9 +78579,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Kagemusha of the Blue Flame",
@@ -79748,9 +79322,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Flame Ghost",
@@ -80373,9 +79945,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dryad",
@@ -80808,9 +80378,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "B. Skull Dragon",
@@ -80827,9 +80395,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Two-mouth Darkruler",
@@ -81042,9 +80608,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Solitude",
@@ -81092,9 +80656,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Masked Sorcerer",
@@ -81332,9 +80894,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Kumootoko",
@@ -81387,9 +80947,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Midnight Fiend",
@@ -81447,9 +81005,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Roaring Ocean Snake",
@@ -81466,9 +81022,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Trap Master",
@@ -81966,9 +81520,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Fiend Sword",
@@ -82221,9 +81773,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Skull Stalker",
@@ -82671,9 +82221,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Hitodenchak",
@@ -82781,9 +82329,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Wood Remains",
@@ -83186,9 +82732,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Hourglass of Life",
@@ -83511,9 +83055,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Rare Fish",
@@ -83766,9 +83308,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Wood Clown",
@@ -84216,9 +83756,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Madjinn Gunn",
@@ -84276,9 +83814,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark Titan of Terror",
@@ -84341,9 +83877,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Beautiful Headhuntress",
@@ -84761,9 +84295,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Wodan the Resident of the Forest",
@@ -85201,9 +84733,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Guardian of the Labyrinth",
@@ -85651,9 +85181,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Haniwa",
@@ -86071,9 +85599,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Yashinoki",
@@ -86566,9 +86092,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Vishwar Randi",
@@ -87136,9 +86660,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "The Drdek",
@@ -87196,9 +86718,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark Assailant",
@@ -87511,9 +87031,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Candle of Fate",
@@ -87911,9 +87429,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Water Element",
@@ -88336,9 +87852,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Dissolverock",
@@ -88906,9 +88420,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Meda Bat",
@@ -88966,9 +88478,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "One Who Hunts Souls",
@@ -89016,9 +88526,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Root Water",
@@ -89436,9 +88944,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Master & Expert",
@@ -90016,9 +89522,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Water Omotics",
@@ -90386,9 +89890,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Hyo",
@@ -90796,9 +90298,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Enchanting Mermaid",
@@ -91411,9 +90911,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Nekogal #1",
@@ -91796,9 +91294,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Angelwitch",
@@ -92346,9 +91842,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Embryonic Beast",
@@ -92406,9 +91900,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Prevent Rat",
@@ -92986,9 +92478,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dimensional Warrior",
@@ -93381,9 +92871,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Stone Armadiller",
@@ -93756,9 +93244,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Beastking of the Swamps",
@@ -93866,9 +93352,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Ancient Sorcerer",
@@ -94096,9 +93580,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Lunar Queen Elzaim",
@@ -94566,9 +94048,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Wicked Mirror",
@@ -94631,9 +94111,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "The Little Swordsman of Aile",
@@ -95026,9 +94504,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Rock Ogre Grotto #2",
@@ -95391,9 +94867,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Wing Egg Elf",
@@ -95826,9 +95300,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "The Furious Sea King",
@@ -95936,9 +95408,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Princess of Tsurugi",
@@ -96441,9 +95911,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Unknown Warrior of Fiend",
@@ -96831,9 +96299,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Sectarian of Secrets",
@@ -97056,9 +96522,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Versago the Destroyer",
@@ -97131,9 +96595,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Wetha",
@@ -97241,9 +96703,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Megirus Light",
@@ -97316,9 +96776,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mavelus",
@@ -97681,9 +97139,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Ancient Tree of Enlightenment",
@@ -98106,9 +97562,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Green Phantom King",
@@ -98531,9 +97985,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ground Attacker Bugroth",
@@ -98971,9 +98423,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ray & Temperature",
@@ -99131,9 +98581,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Gorgon Egg",
@@ -99221,9 +98669,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Petit Moth",
@@ -99271,9 +98717,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "King Fog",
@@ -99346,9 +98790,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Protector of the Throne",
@@ -99901,9 +99343,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Mystic Clown",
@@ -99936,9 +99376,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mystical Sheep #2",
@@ -100546,9 +99984,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Holograh",
@@ -100806,9 +100242,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Tao the Chanter",
@@ -100901,9 +100335,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Serpent Marauder",
@@ -100961,9 +100393,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Gatekeeper",
@@ -101136,9 +100566,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Ogre of the Black Shadow",
@@ -101176,9 +100604,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dark Artist",
@@ -101241,9 +100667,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Change Slime",
@@ -101346,9 +100770,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Moon Envoy",
@@ -101711,9 +101133,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Fireyarou",
@@ -101976,9 +101396,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Psychic Kappa",
@@ -102266,9 +101684,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Masaki the Legendary Swordsman",
@@ -102626,9 +102042,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dragoness the Wicked Knight",
@@ -102976,9 +102390,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Bio Plant",
@@ -103001,9 +102413,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "One-eyed Shield Dragon",
@@ -103746,9 +103156,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Cyber Soldier of Darkworld",
@@ -103966,9 +103374,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Wicked Dragon with the Ersatz Head",
@@ -104716,9 +104122,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Sonic Maid",
@@ -105216,9 +104620,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kurama",
@@ -105311,9 +104713,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Legendary Sword",
@@ -105410,9 +104810,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Sword of Dark Destruction",
@@ -105490,9 +104888,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Dark Energy",
@@ -105833,9 +105229,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Axe of Despair",
@@ -105935,9 +105329,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Laser Cannon Armor",
@@ -106104,9 +105496,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Insect Armor with Laser Cannon",
@@ -106238,9 +105628,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Elf's Light",
@@ -106348,9 +105736,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Beast Fangs",
@@ -106610,9 +105996,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Steel Shell",
@@ -106626,24 +106010,7 @@
     "Defense": 0,
     "Stars": 800,
     "CardCode": "02370081",
-    "Equip": [
-      89,
-      177,
-      193,
-      292,
-      443,
-      449,
-      450,
-      459,
-      460,
-      497,
-      503,
-      518,
-      520,
-      593,
-      647,
-      710
-    ],
+    "Equip": [89, 177, 193, 292, 443, 449, 450, 459, 460, 497, 503, 518, 520, 593, 647, 710],
     "Fusions": [
       {
         "_card1": 309,
@@ -106652,9 +106019,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Vile Germs",
@@ -106713,9 +106078,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Black Pendant",
@@ -106859,9 +106222,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Silver Bow and Arrow",
@@ -106949,9 +106310,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Horn of Light",
@@ -107034,9 +106393,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Horn of the Unicorn",
@@ -107152,9 +106509,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Dragon Treasure",
@@ -107264,9 +106619,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Electro-whip",
@@ -107405,9 +106758,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Cyber Shield",
@@ -107498,9 +106849,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Elegant Egotist",
@@ -107514,9 +106863,7 @@
     "Defense": 0,
     "Stars": 999999,
     "CardCode": "90219263",
-    "Equip": [
-      62
-    ],
+    "Equip": [62],
     "Fusions": [
       {
         "_card1": 318,
@@ -107530,9 +106877,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Mystical Moon",
@@ -107653,9 +106998,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Stop Defense",
@@ -107672,9 +107015,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Malevolent Nuzzler",
@@ -107839,9 +107180,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Violet Crystal",
@@ -107943,9 +107282,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Book of Secret Arts",
@@ -108060,9 +107397,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Invigoration",
@@ -108201,9 +107536,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Machine Conversion Factory",
@@ -108409,9 +107742,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Raise Body Heat",
@@ -108546,9 +107877,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Follow Wind",
@@ -108725,9 +108054,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Power of Kaishin",
@@ -108870,9 +108197,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Dragon Capture Jar",
@@ -108895,9 +108220,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Forest",
@@ -108925,9 +108248,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Wasteland",
@@ -108944,9 +108265,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Mountain",
@@ -108963,9 +108282,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Sogen",
@@ -108982,9 +108299,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Umi",
@@ -109017,9 +108332,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Yami",
@@ -109042,9 +108355,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Dark Hole",
@@ -109067,9 +108378,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Raigeki",
@@ -109086,9 +108395,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Mooyan Curry",
@@ -109121,9 +108428,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Red Medicine",
@@ -109146,9 +108451,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Goblin's Secret Remedy",
@@ -109171,9 +108474,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Soul of the Pure",
@@ -109196,9 +108497,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Dian Keto the Cure Master",
@@ -109221,9 +108520,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Sparks",
@@ -109246,9 +108543,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Hinotama",
@@ -109271,9 +108566,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Final Flame",
@@ -109306,9 +108599,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Ookazi",
@@ -109331,9 +108622,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Tremendous Fire",
@@ -109350,9 +108639,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Swords of Revealing Light",
@@ -109369,9 +108656,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Spellbinding Circle",
@@ -109399,9 +108684,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Dark-piercing Light",
@@ -109429,9 +108712,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Yaranzo",
@@ -109619,9 +108900,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Kanan the Swordmistress",
@@ -110059,9 +109338,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Takriminos",
@@ -110709,9 +109986,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Stuffed Animal",
@@ -111034,9 +110309,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Megasonic Eye",
@@ -111179,9 +110452,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Super War-lion",
@@ -111198,9 +110469,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Yamadron",
@@ -111978,9 +111247,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Seiyaryu",
@@ -112048,9 +111315,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Three-legged Zombies",
@@ -112288,9 +111553,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Zera The Mant",
@@ -112307,9 +111570,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Flying Penguin",
@@ -112392,9 +111653,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Millennium Shield",
@@ -112752,9 +112011,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Fairy's Gift",
@@ -113057,9 +112314,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Black Luster Soldier",
@@ -113076,9 +112331,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Fiend's Mirror",
@@ -113095,9 +112348,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Labyrinth Wall",
@@ -113385,9 +112636,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Jirai Gumo",
@@ -113410,9 +112659,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Shadow Ghoul",
@@ -113530,9 +112777,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Wall Shadow",
@@ -113600,9 +112845,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Labyrinth Tank",
@@ -113619,9 +112862,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Sanga of the Thunder",
@@ -113729,9 +112970,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Kazejin",
@@ -113748,9 +112987,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Suijin",
@@ -113767,9 +113004,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Gate Guardian",
@@ -113786,9 +113021,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dungeon Worm",
@@ -113811,9 +113044,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Monster Tamer",
@@ -113861,9 +113092,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ryu-kishin Powered",
@@ -113880,9 +113109,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Swordstalker",
@@ -113899,9 +113126,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "La Jinn the Mystical Genie",
@@ -113934,9 +113159,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Blue-eyes Ultimate Dragon",
@@ -113953,9 +113176,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Toon Alligator",
@@ -114013,9 +113234,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Rude Kaiser",
@@ -114032,9 +113251,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Parrot Dragon",
@@ -114162,9 +113379,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Dark Rabbit",
@@ -114302,9 +113517,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Bickuribox",
@@ -114321,9 +113534,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Harpie's Pet Dragon",
@@ -114451,9 +113662,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Mystic Lamp",
@@ -114696,9 +113905,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Pendulum Machine",
@@ -114781,9 +113988,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Giltia the D. Knight",
@@ -114826,9 +114031,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Launcher Spider",
@@ -114911,9 +114114,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Zoa",
@@ -114936,9 +114137,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Metalzoa",
@@ -114955,9 +114154,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Zone Eater",
@@ -115040,9 +114237,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Steel Scorpion",
@@ -115240,9 +114435,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dancing Elf",
@@ -115690,9 +114883,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Ocubeam",
@@ -115905,9 +115096,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Leghul",
@@ -115950,9 +115139,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ooguchi",
@@ -116030,9 +115217,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Swordsman from a Foreign Land",
@@ -116365,9 +115550,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Emperor of the Land and Sea",
@@ -116384,9 +115567,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Ushi Oni",
@@ -116403,9 +115584,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Monster Eye",
@@ -116443,9 +115622,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Leogun",
@@ -116698,9 +115875,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Tatsunootoshigo",
@@ -116798,9 +115973,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Saber Slasher",
@@ -116978,9 +116151,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Yaiba Robo",
@@ -117173,9 +116344,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Machine King",
@@ -117258,9 +116427,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Giant Mech-soldier",
@@ -117328,9 +116495,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Metal Dragon",
@@ -117753,9 +116918,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Mechanical Spider",
@@ -117948,9 +117111,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Bat",
@@ -118143,9 +117304,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Giga-tech Wolf",
@@ -118338,9 +117497,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Cyber Soldier",
@@ -118478,9 +117635,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Shovel Crusher",
@@ -118673,9 +117828,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Mechanicalchacer",
@@ -118692,9 +117845,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Blocker",
@@ -118887,9 +118038,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Blast Juggler",
@@ -119217,9 +118366,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Golgoil",
@@ -119412,9 +118559,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Giganto",
@@ -119482,9 +118627,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Cyber-Stein",
@@ -119677,9 +118820,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Cyber Commander",
@@ -119872,9 +119013,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Jinzo #7",
@@ -120067,9 +119206,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dice Armadillo",
@@ -120137,9 +119274,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Sky Dragon",
@@ -120387,9 +119522,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Thunder Dragon",
@@ -121017,9 +120150,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Stone D.",
@@ -121282,9 +120413,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kaiser Dragon",
@@ -121342,9 +120471,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Magician of Faith",
@@ -121657,9 +120784,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Goddess of Whim",
@@ -122002,9 +121127,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Water Magician",
@@ -122262,9 +121385,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Ice Water",
@@ -122557,9 +121678,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Waterdragon Fairy",
@@ -122857,9 +121976,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Ancient Elf",
@@ -123182,9 +122299,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Beautiful Beast Trainer",
@@ -123432,9 +122547,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Water Girl",
@@ -123727,9 +122840,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "White Dolphin",
@@ -123912,9 +123023,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Deepsea Shark",
@@ -123931,9 +123040,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Metal Fish",
@@ -124036,9 +123143,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Bottom Dweller",
@@ -124131,9 +123236,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "7 Colored Fish",
@@ -124150,9 +123253,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Mech Bass",
@@ -124200,9 +123301,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Aqua Dragon",
@@ -124260,9 +123359,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Sea King Dragon",
@@ -124385,9 +123482,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Turu-Purun",
@@ -124460,9 +123555,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Guardian of the Sea",
@@ -124535,9 +123628,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Aqua Snake",
@@ -124610,9 +123701,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Giant Red Seasnake",
@@ -124629,9 +123718,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Spike Seadra",
@@ -125139,9 +124226,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "30,000-Year White Turtle",
@@ -125319,9 +124404,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Kappa Avenger",
@@ -125479,9 +124562,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Kanikabuto",
@@ -125544,9 +124625,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Zarigun",
@@ -125609,9 +124688,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Millennium Golem",
@@ -125739,9 +124816,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Destroyer Golem",
@@ -125894,9 +124969,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Barrel Rock",
@@ -126094,9 +125167,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Minomushi Warrior",
@@ -126259,9 +125330,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Stone Ghost",
@@ -126444,9 +125513,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kaminari Attack",
@@ -126504,9 +125571,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Tripwire Beast",
@@ -126694,9 +125759,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Bolt Escargot",
@@ -126814,9 +125877,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Bolt Penguin",
@@ -127044,9 +126105,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "The Immortal of Thunder",
@@ -127164,9 +126223,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Electric Snake",
@@ -127409,9 +126466,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Wing Eagle",
@@ -127474,9 +126529,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Punished Eagle",
@@ -127524,9 +126577,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Skull Red Bird",
@@ -127589,9 +126640,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Crimson Sunbird",
@@ -127608,9 +126657,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Queen Bird",
@@ -127678,9 +126725,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Armed Ninja",
@@ -127928,9 +126973,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Magical Ghost",
@@ -128063,9 +127106,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Soul Hunter",
@@ -128082,9 +127123,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Air Eater",
@@ -128101,9 +127140,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Vermillion Sparrow",
@@ -128221,9 +127258,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Sea Kamen",
@@ -128271,9 +127306,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Sinister Serpent",
@@ -128326,9 +127359,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Ganigumo",
@@ -128361,9 +127392,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Alinsection",
@@ -128386,9 +127415,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Insect Soldiers of the Sky",
@@ -128411,9 +127438,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Cockroach Knight",
@@ -128436,9 +127461,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kuwagata a",
@@ -128516,9 +127539,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Burglar",
@@ -128806,9 +127827,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Pragtical",
@@ -128825,9 +127844,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Garvas",
@@ -128860,9 +127877,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ameba",
@@ -128910,9 +127925,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Korogashi",
@@ -128940,9 +127953,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Boo Koo",
@@ -129010,9 +128021,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Flower Wolf",
@@ -129155,9 +128164,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Rainbow Flower",
@@ -129395,9 +128402,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Barrel Lily",
@@ -129590,9 +128595,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Needle Ball",
@@ -129625,9 +128628,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Peacock",
@@ -129685,9 +128686,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Hoshiningen",
@@ -129805,9 +128804,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Maha Vailo",
@@ -129840,9 +128837,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Rainbow Marine Mermaid",
@@ -130110,9 +129105,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Musician King",
@@ -130140,9 +129133,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Wilmee",
@@ -130235,9 +129226,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Yado Karu",
@@ -130285,9 +129274,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Morinphen",
@@ -130304,9 +129291,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Kattapillar",
@@ -130334,9 +129319,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Dragon Seeker",
@@ -130353,9 +129336,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Man-eater Bug",
@@ -130383,9 +129364,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "D. Human",
@@ -130518,9 +129497,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Turtle Raccoon",
@@ -130688,9 +129665,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Fungi of the Musk",
@@ -130733,9 +129708,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Prisman",
@@ -130928,9 +129901,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Gale Dogra",
@@ -130958,9 +129929,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Crazy Fish",
@@ -131028,9 +129997,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Cyber Saurus",
@@ -131073,9 +130040,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Bracchio-raidus",
@@ -131092,9 +130057,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Laughing Flower",
@@ -131292,9 +130255,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Bean Soldier",
@@ -131462,9 +130423,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Cannon Soldier",
@@ -131607,9 +130566,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Guardian of the Throne Room",
@@ -131672,9 +130629,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Brave Scizzar",
@@ -131832,9 +130787,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "The Statue of Easter Island",
@@ -132017,9 +130970,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Muka Muka",
@@ -132207,9 +131158,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Sand Stone",
@@ -132362,9 +131311,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Boulder Tortoise",
@@ -132437,9 +131384,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Fire Kraken",
@@ -132597,9 +131542,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Turtle Bird",
@@ -132642,9 +131585,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Skullbird",
@@ -132677,9 +131618,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Monstrous Bird",
@@ -132717,9 +131656,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "The Bistro Butcher",
@@ -132736,9 +131673,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Star Boy",
@@ -132786,9 +131721,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Spirit of the Mountain",
@@ -132816,9 +131749,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Neck Hunter",
@@ -132835,9 +131766,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Milus Radiant",
@@ -133080,9 +132009,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Togex",
@@ -133295,9 +132222,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Flame Cerebrus",
@@ -133314,9 +132239,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Eldeen",
@@ -133514,9 +132437,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Mystical Sand",
@@ -133533,9 +132454,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Gemini Elf",
@@ -133618,9 +132537,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kwagar Hercules",
@@ -133637,9 +132554,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Minar",
@@ -133667,9 +132582,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Kamakiriman",
@@ -133686,9 +132599,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Mechaleon",
@@ -133731,9 +132642,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Mega Thunderball",
@@ -133901,9 +132810,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Niwatori",
@@ -133941,9 +132848,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Corroding Shark",
@@ -134076,9 +132981,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Skelengel",
@@ -134206,9 +133109,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Hane-Hane",
@@ -134291,9 +133192,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Misairuzame",
@@ -134371,9 +133270,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Tongyo",
@@ -134456,9 +133353,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Dharma Cannon",
@@ -134591,9 +133486,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Skelgon",
@@ -134861,9 +133754,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Wow Warrior",
@@ -134966,9 +133857,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Griggle",
@@ -135141,9 +134030,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Bone Mouse",
@@ -135271,9 +134158,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Frog The Jam",
@@ -135311,9 +134196,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Behegon",
@@ -135351,9 +134234,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Dark Elf",
@@ -135391,9 +134272,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Winged Dragon #2",
@@ -135431,9 +134310,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Mushroom Man #2",
@@ -135556,9 +134433,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Lava Battleguard",
@@ -135596,9 +134471,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Tyhone #2",
@@ -135866,9 +134739,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "The Wandering Doomed",
@@ -135986,9 +134857,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Steel Ogre Grotto #1",
@@ -136091,9 +134960,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Pot the Trick",
@@ -136241,9 +135108,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Oscillo Hero",
@@ -136346,9 +135211,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Invader from Another Dimension",
@@ -136365,9 +135228,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Lesser Dragon",
@@ -136605,9 +135466,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Needle Worm",
@@ -136635,9 +135494,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Wretched Ghost of the Attic",
@@ -136660,9 +135517,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Great Mammoth of Goldfine",
@@ -136679,9 +135534,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Man-eating Black Shark",
@@ -136698,9 +135551,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Yormungarde",
@@ -136717,9 +135568,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Darkworld Thorns",
@@ -136847,9 +135696,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Anthrosaurus",
@@ -136887,9 +135734,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Drooling Lizard",
@@ -136922,9 +135767,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Trakadon",
@@ -136962,9 +135805,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "B. Dragon Jungle King",
@@ -136987,9 +135828,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Empress Judge",
@@ -137006,9 +135845,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Little D",
@@ -137046,9 +135883,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Witch of the Black Forest",
@@ -137186,9 +136021,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Ancient One of the Deep Forest",
@@ -137301,9 +136134,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Giant Scorpion of the Tundra",
@@ -137320,9 +136151,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Crow Goblin",
@@ -137355,9 +136184,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Leo Wizard",
@@ -137390,9 +136217,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Abyss Flower",
@@ -137520,9 +136345,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Patrol Robo",
@@ -137605,9 +136428,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Takuhee",
@@ -137645,9 +136466,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Dark Witch",
@@ -137715,9 +136534,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Weather Report",
@@ -137745,9 +136562,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Binding Chain",
@@ -137825,9 +136640,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Mechanical Snail",
@@ -137910,9 +136723,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Greenkappa",
@@ -137995,9 +136806,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mon Larvas",
@@ -138050,9 +136859,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Living Vase",
@@ -138175,9 +136982,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Tentacle Plant",
@@ -138305,9 +137110,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Beaked Snake",
@@ -138324,9 +137127,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Morphing Jar",
@@ -138444,9 +137245,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Muse-A",
@@ -138589,9 +137388,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Giant Turtle Who Feeds on Flames",
@@ -138634,9 +137431,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Rose Spectre of Dunn",
@@ -138674,9 +137469,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Fiend Refrection #1",
@@ -138704,9 +137497,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Ghoul with an Appetite",
@@ -138744,9 +137535,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Pale Beast",
@@ -138869,9 +137658,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Little Chimera",
@@ -138999,9 +137786,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Violent Rain",
@@ -139024,9 +137809,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Key Mace #2",
@@ -139104,9 +137887,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Tenderness",
@@ -139194,9 +137975,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Penguin Soldier",
@@ -139224,9 +138003,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Fairy Dragon",
@@ -139364,9 +138141,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Obese Marmot of Nefariousness",
@@ -139484,9 +138259,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Liquid Beast",
@@ -139509,9 +138282,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Twin Long Rods #2",
@@ -139534,9 +138305,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Great Bill",
@@ -139584,9 +138353,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Shining Friendship",
@@ -139664,9 +138431,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Bladefly",
@@ -139689,9 +138454,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Electric Lizard",
@@ -139774,9 +138537,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Hiro's Shadow Scout",
@@ -139793,9 +138554,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Lady of Faith",
@@ -139858,9 +138617,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Twin-headed Thunder Dragon",
@@ -139877,9 +138634,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Hunter Spider",
@@ -139896,9 +138651,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Armored Starfish",
@@ -139915,9 +138668,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Hourglass of Courage",
@@ -139990,9 +138741,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Marine Beast",
@@ -140009,9 +138758,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Warrior of Tradition",
@@ -140039,9 +138786,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Rock Spirit",
@@ -140058,9 +138803,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Snakeyashi",
@@ -140138,9 +138881,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Succubus Knight",
@@ -140193,9 +138934,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Ill Witch",
@@ -140248,9 +138987,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "The Thing That Hides in the Mud",
@@ -140318,9 +139055,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "High Tide Gyojin",
@@ -140337,9 +139072,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Fairy of the Fountain",
@@ -140382,9 +139115,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Amazon of the Seas",
@@ -140432,9 +139163,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Nekogal #2",
@@ -140457,9 +139186,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Witch's Apprentice",
@@ -140502,9 +139229,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Armored Rat",
@@ -140572,9 +139297,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Ancient Lizard Warrior",
@@ -140591,9 +139314,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Maiden of the Moonlight",
@@ -140631,9 +139352,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Stone Ogre Grotto",
@@ -140676,9 +139395,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Winged Egg of New Life",
@@ -140716,9 +139433,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Night Lizard",
@@ -140735,9 +139450,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Queen's Double",
@@ -140775,9 +139488,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Blue-winged Crown",
@@ -140810,9 +139521,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 5,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 5
   },
   {
     "Name": "Trent",
@@ -140850,9 +139559,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Queen of Autumn Leaves",
@@ -140880,9 +139587,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Amphibious Bugroth",
@@ -140899,9 +139604,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Acid Crawler",
@@ -140918,9 +139621,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Invader of the Throne",
@@ -140953,9 +139654,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Mystical Sheep #1",
@@ -140993,9 +139692,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Disk Magician",
@@ -141023,9 +139720,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Flame Viper",
@@ -141048,9 +139743,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Royal Guard",
@@ -141067,9 +139760,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Gruesome Goo",
@@ -141086,9 +139777,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Hyosube",
@@ -141105,9 +139794,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Machine Attacker",
@@ -141130,9 +139817,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Hibikime",
@@ -141149,9 +139834,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Whiptail Crow",
@@ -141168,9 +139851,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Kunai with Chain",
@@ -141296,9 +139977,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Magical Labyrinth",
@@ -141312,9 +139991,7 @@
     "Defense": 0,
     "Stars": 10,
     "CardCode": "64389297",
-    "Equip": [
-      366
-    ],
+    "Equip": [366],
     "Fusions": [
       {
         "_card1": 652,
@@ -141328,9 +140005,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Warrior Elimination",
@@ -141347,9 +140022,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Salamandra",
@@ -141398,9 +140071,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Cursebreaker",
@@ -141423,9 +140094,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Eternal Rest",
@@ -141442,9 +140111,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Megamorph",
@@ -142089,9 +140756,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Metalmorph",
@@ -142105,9 +140770,7 @@
     "Defense": 0,
     "Stars": 999999,
     "CardCode": "68540058",
-    "Equip": [
-      391
-    ],
+    "Equip": [391],
     "Fusions": [
       {
         "_card1": 658,
@@ -142126,9 +140789,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Winged Trumpeter",
@@ -142178,9 +140839,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Stain Storm",
@@ -142197,9 +140856,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Crush Card",
@@ -142216,9 +140873,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Eradicating Aerosol",
@@ -142235,9 +140890,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Breath of Light",
@@ -142254,9 +140907,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Eternal Draught",
@@ -142273,9 +140924,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Curse of Millennium Shield",
@@ -142297,16 +140946,16 @@
         "_result": 678
       }
     ],
-    "Ritual": {
-      "RitualCard": 665,
-      "Card1": 255,
-      "Card2": 296,
-      "Card3": 629,
-      "Result": 362
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 665,
+        "Card1": 255,
+        "Card2": 296,
+        "Card3": 629,
+        "Result": 362
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Yamadron Ritual",
@@ -142322,16 +140971,16 @@
     "CardCode": "29089635",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 666,
-      "Card1": 29,
-      "Card2": 31,
-      "Card3": 101,
-      "Result": 357
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 666,
+        "Card1": 29,
+        "Card2": 31,
+        "Card3": 101,
+        "Result": 357
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Gate Guardian Ritual",
@@ -142347,16 +140996,16 @@
     "CardCode": "56483330",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 667,
-      "Card1": 371,
-      "Card2": 372,
-      "Card3": 373,
-      "Result": 374
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 667,
+        "Card1": 371,
+        "Card2": 372,
+        "Card3": 373,
+        "Result": 374
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Bright Castle",
@@ -142995,9 +141644,7 @@
     ],
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Shadow Spell",
@@ -143014,9 +141661,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "Black Luster Ritual",
@@ -143032,16 +141677,16 @@
     "CardCode": "55761792",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 670,
-      "Card1": 27,
-      "Card2": 38,
-      "Card3": 58,
-      "Result": 364
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 670,
+        "Card1": 27,
+        "Card2": 38,
+        "Card3": 58,
+        "Result": 364
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Zera Ritual",
@@ -143057,16 +141702,16 @@
     "CardCode": "81756897",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 671,
-      "Card1": 85,
-      "Card2": 298,
-      "Card3": 377,
-      "Result": 360
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 671,
+        "Card1": 85,
+        "Card2": 298,
+        "Card3": 377,
+        "Result": 360
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Harpie's Feather Duster",
@@ -143083,9 +141728,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 6
   },
   {
     "Name": "War-lion Ritual",
@@ -143101,16 +141744,16 @@
     "CardCode": "54539105",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 673,
-      "Card1": 201,
-      "Card2": 403,
-      "Card3": 483,
-      "Result": 356
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 673,
+        "Card1": 201,
+        "Card2": 403,
+        "Card3": 483,
+        "Result": 356
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Beastry Mirror Ritual",
@@ -143126,16 +141769,16 @@
     "CardCode": "81933259",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 674,
-      "Card1": 186,
-      "Card2": 261,
-      "Card3": 595,
-      "Result": 365
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 674,
+        "Card1": 186,
+        "Card2": 261,
+        "Card3": 595,
+        "Result": 365
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Ultimate Dragon",
@@ -143151,16 +141794,16 @@
     "CardCode": "17928958",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 675,
-      "Card1": 1,
-      "Card2": 1,
-      "Card3": 1,
-      "Result": 380
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 675,
+        "Card1": 1,
+        "Card2": 1,
+        "Card3": 1,
+        "Result": 380
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Commencement Dance",
@@ -143176,16 +141819,16 @@
     "CardCode": "43417563",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 676,
-      "Card1": 249,
-      "Card2": 395,
-      "Card3": 511,
-      "Result": 701
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 676,
+        "Card1": 249,
+        "Card2": 395,
+        "Card3": 511,
+        "Result": 701
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Hamburger Recipe",
@@ -143201,16 +141844,16 @@
     "CardCode": "80811661",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 677,
-      "Card1": 14,
-      "Card2": 295,
-      "Card3": 547,
-      "Result": 702
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 677,
+        "Card1": 14,
+        "Card2": 295,
+        "Card3": 547,
+        "Result": 702
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Revival of Sennen Genjin",
@@ -143226,16 +141869,16 @@
     "CardCode": "16206366",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 678,
-      "Card1": 3,
-      "Card2": 64,
-      "Card3": 453,
-      "Result": 703
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 678,
+        "Card1": 3,
+        "Card2": 64,
+        "Card3": 453,
+        "Result": 703
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Novox's Prayer",
@@ -143251,16 +141894,16 @@
     "CardCode": "43694075",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 679,
-      "Card1": 160,
-      "Card2": 161,
-      "Card3": 535,
-      "Result": 704
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 679,
+        "Card1": 160,
+        "Card2": 161,
+        "Card3": 535,
+        "Result": 704
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Curse of Tri-Horned Dragon",
@@ -143276,16 +141919,16 @@
     "CardCode": "79699070",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 680,
-      "Card1": 6,
-      "Card2": 47,
-      "Card3": 571,
-      "Result": 705
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 680,
+        "Card1": 6,
+        "Card2": 47,
+        "Card3": 571,
+        "Result": 705
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "House of Adhesive Tape",
@@ -143302,9 +141945,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Eatgaboon",
@@ -143321,9 +141962,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Bear Trap",
@@ -143340,9 +141979,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Invisible Wire",
@@ -143359,9 +141996,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Acid Trap Hole",
@@ -143378,9 +142013,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Widespread Ruin",
@@ -143403,9 +142036,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Goblin Fan",
@@ -143428,9 +142059,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Bad Reaction to Simochi",
@@ -143447,9 +142076,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Reverse Trap",
@@ -143466,9 +142093,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Fake Trap",
@@ -143485,9 +142110,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 7,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 7
   },
   {
     "Name": "Revived of Serpent Night Dragon",
@@ -143503,16 +142126,16 @@
     "CardCode": "39411600",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 691,
-      "Card1": 168,
-      "Card2": 294,
-      "Card3": 604,
-      "Result": 706
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 691,
+        "Card1": 168,
+        "Card2": 294,
+        "Card3": 604,
+        "Result": 706
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Turtle Oath",
@@ -143528,16 +142151,16 @@
     "CardCode": "76806714",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 692,
-      "Card1": 89,
-      "Card2": 449,
-      "Card3": 451,
-      "Result": 710
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 692,
+        "Card1": 89,
+        "Card2": 449,
+        "Card3": 451,
+        "Result": 710
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Contruct of Mask",
@@ -143553,16 +142176,16 @@
     "CardCode": "02304453",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 693,
-      "Card1": 102,
-      "Card2": 182,
-      "Card3": 220,
-      "Result": 720
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 693,
+        "Card1": 102,
+        "Card2": 182,
+        "Card3": 220,
+        "Result": 720
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Resurrection of Chakra",
@@ -143578,16 +142201,16 @@
     "CardCode": "39399168",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 694,
-      "Card1": 178,
-      "Card2": 269,
-      "Card3": 288,
-      "Result": 709
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 694,
+        "Card1": 178,
+        "Card2": 269,
+        "Card3": 288,
+        "Result": 709
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Puppet Ritual",
@@ -143603,16 +142226,16 @@
     "CardCode": "05783166",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 695,
-      "Card1": 166,
-      "Card2": 405,
-      "Card3": 416,
-      "Result": 715
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 695,
+        "Card1": 166,
+        "Card2": 405,
+        "Card3": 416,
+        "Result": 715
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Javelin Beetle Pact",
@@ -143628,16 +142251,16 @@
     "CardCode": "41182875",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 696,
-      "Card1": 52,
-      "Card2": 480,
-      "Card3": 533,
-      "Result": 717
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 696,
+        "Card1": 52,
+        "Card2": 480,
+        "Card3": 533,
+        "Result": 717
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Garma Sword Oath",
@@ -143653,16 +142276,16 @@
     "CardCode": "78577570",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 697,
-      "Card1": 239,
-      "Card2": 378,
-      "Card3": 621,
-      "Result": 716
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 697,
+        "Card1": 239,
+        "Card2": 378,
+        "Card3": 621,
+        "Result": 716
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Cosmo Queen's Prayer",
@@ -143678,16 +142301,16 @@
     "CardCode": "04561679",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 698,
-      "Card1": 266,
-      "Card2": 635,
-      "Card3": 638,
-      "Result": 708
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 698,
+        "Card1": 266,
+        "Card2": 635,
+        "Card3": 638,
+        "Result": 708
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Revival of Skeleton Rider",
@@ -143703,16 +142326,16 @@
     "CardCode": "31066283",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 699,
-      "Card1": 146,
-      "Card2": 479,
-      "Card3": 485,
-      "Result": 719
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 699,
+        "Card1": 146,
+        "Card2": 479,
+        "Card3": 485,
+        "Result": 719
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Fortress Whale's Oath",
@@ -143728,16 +142351,16 @@
     "CardCode": "77454922",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 700,
-      "Card1": 436,
-      "Card2": 441,
-      "Card3": 542,
-      "Result": 718
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 700,
+        "Card1": 436,
+        "Card2": 441,
+        "Card3": 542,
+        "Result": 718
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Performance of Sword",
@@ -143754,9 +142377,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Hungry Burger",
@@ -143773,9 +142394,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Sengenjin",
@@ -143792,9 +142411,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Skull Guardian",
@@ -143811,9 +142428,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 0,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 0
   },
   {
     "Name": "Tri-horned Dragon",
@@ -143830,9 +142445,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Serpent Night Dragon",
@@ -143849,9 +142462,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Skull Knight",
@@ -143868,9 +142479,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Cosmo Queen",
@@ -143887,9 +142496,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Chakra",
@@ -143906,9 +142513,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Crab Turtle",
@@ -143925,9 +142530,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Mikazukinoyaiba",
@@ -143944,9 +142547,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Meteor Dragon",
@@ -143969,9 +142570,7 @@
       }
     ],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Meteor B. Dragon",
@@ -143988,9 +142587,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Firewing Pegasus",
@@ -144007,9 +142604,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 4,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 4
   },
   {
     "Name": "Psycho-Puppet",
@@ -144026,9 +142621,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Garma Sword",
@@ -144045,9 +142638,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Javelin Beetle",
@@ -144064,9 +142655,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 2,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 2
   },
   {
     "Name": "Fortress Whale",
@@ -144083,9 +142672,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 3,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 3
   },
   {
     "Name": "Dokurorider",
@@ -144102,9 +142689,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Mask of Shine & Dark",
@@ -144121,9 +142706,7 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   },
   {
     "Name": "Dark Magic Ritual",
@@ -144139,16 +142722,16 @@
     "CardCode": "00000000",
     "Equip": null,
     "Fusions": [],
-    "Ritual": {
-      "RitualCard": 721,
-      "Card1": 7,
-      "Card2": 35,
-      "Card3": 417,
-      "Result": 722
-    },
-    "Attribute": 6,
-    "NameColor": 0,
-    "DescColor": 0
+    "Ritual": [
+      {
+        "RitualCard": 721,
+        "Card1": 7,
+        "Card2": 35,
+        "Card3": 417,
+        "Result": 722
+      }
+    ],
+    "Attribute": 6
   },
   {
     "Name": "Magician of Black Chaos",
@@ -144165,8 +142748,6 @@
     "Equip": null,
     "Fusions": [],
     "Ritual": null,
-    "Attribute": 1,
-    "NameColor": 0,
-    "DescColor": 0
+    "Attribute": 1
   }
 ]

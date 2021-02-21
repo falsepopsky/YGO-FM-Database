@@ -1,0 +1,58 @@
+:root {
+  --varela: "Varela Round", sans-serif;
+  --primary-font-color: rgb(30, 35, 55);
+}
+
+body {
+  font-family: var(--varela), "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-flow: column wrap;
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/background/error.jpg") fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  align-items: center;
+  color: white;
+  justify-content: center;
+}
+
+.error {
+  font-size: 40px;
+  text-shadow: 2px 2px 5px black;
+  border: solid #fdee75 2px;
+  border-radius: 4px;
+  padding: 10px;
+  border-top: transparent;
+  border-bottom: transparent;
+}
+
+.text {
+  font-size: 40px;
+  text-shadow: 2px 2px 5px black;
+  margin: 10px;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  border-radius: 4px;
+  padding: 10px 10px;
+  width: auto;
+  text-decoration: none;
+  background: white;
+  color: black;
+  border: 2px solid white;
+}
+
+@media (max-width: 482px) {
+  .error {
+    font-size: 24px;
+  }
+
+  .text {
+    font-size: 20px;
+  }
+}
