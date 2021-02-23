@@ -206,6 +206,7 @@ body {
   border: 0;
   border-radius: 4px;
   color: black;
+  outline: none;
 }
 
 .search {
@@ -217,6 +218,7 @@ body {
   background-color: #3eea45;
   border-color: #9effa2;
   box-shadow: 0 0 0 0.2rem #9effa2;
+  outline: none;
 }
 
 .reset {
@@ -228,6 +230,7 @@ body {
   background-color: #ea3e3e;
   border-color: #ff6464;
   box-shadow: 0 0 0 0.2rem #ff6464;
+  outline: none;
 }
 
 .box-card {
@@ -318,8 +321,8 @@ body {
 .sub-title {
   font-size: var(--font-size-secondary);
   font-family: var(--jetbrains);
-  margin: 48px;
-  color: white;
+  margin: 10px 48px 20px;
+  color: black;
 }
 
 .card-fusion-equip {

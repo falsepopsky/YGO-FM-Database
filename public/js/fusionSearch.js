@@ -1,15 +1,14 @@
 let inputCard = document.getElementById("cardname");
-let outputLeft = document.getElementById("output-area-left");
-let outputRight = document.getElementById("output-area-right");
+let output = document.getElementById("output");
 let outputCard = document.getElementById("outputcard");
 let searchMessage = document.getElementById("search-msg");
 let resetBtn = document.getElementById("reset-btn");
 let searchResultsBtn = document.getElementById("search-results-btn");
 let searchNameBtn = document.getElementById("search-name-btn");
+let titlesH2 = ["Fusions", "Equips On"];
 
 function resultsClear() {
-  outputLeft.innerHTML = "";
-  outputRight.innerHTML = "";
+  output.innerHTML = "";
   outputCard.innerHTML = "";
   searchMessage.innerHTML = "";
 }
@@ -73,7 +72,7 @@ $("#cardname").on("awesomplete-selectcomplete", function () {
 });
 
 // Creates a div for each fusion
-function fusesToHTML(fuselist) {
+function fusesToHTML(fuselist, title) {
   let ptagList = fuselist
     .map(function (fusion) {
       let pTag = `<p class="card-textplus">${fusion.card1.Name}<strong> + </strong>${fusion.card2.Name}</p>`;
@@ -85,7 +84,8 @@ function fusesToHTML(fuselist) {
     })
     .join("\n");
 
-  let cardDiv = `<div class="card-fusion-equip">${ptagList}</div>`;
+  let cardDiv = `<div class="card-fusion-equip">
+  <h2 class='sub-title'>${title}</h2>${ptagList}</div>`;
   return cardDiv;
 }
 
@@ -102,16 +102,12 @@ function searchByName() {
     let equips = cardWithEquips(card);
 
     if (fusionResponse && equipResponse) {
-      outputLeft.innerHTML = "<h2 class='sub-title'>Fusions</h2>";
-      outputLeft.innerHTML += fusesToHTML(fuses);
-      outputRight.innerHTML = "<h2 class='sub-title'>Equips On</h2>";
-      outputRight.innerHTML += fusesToHTML(equips);
+      output.innerHTML += fusesToHTML(fuses, titlesH2[0]);
+      output.innerHTML += fusesToHTML(equips, titlesH2[1]);
     } else if (fusionResponse) {
-      outputLeft.innerHTML = "<h2 class='sub-title'>Fusions</h2>";
-      outputLeft.innerHTML += fusesToHTML(fuses);
+      output.innerHTML += fusesToHTML(fuses, titlesH2[0]);
     } else if (equipResponse) {
-      outputRight.innerHTML = "<h2 class='sub-title'>Equips On</h2>";
-      outputRight.innerHTML += fusesToHTML(equips);
+      output.innerHTML += fusesToHTML(equips, titlesH2[1]);
     } else {
       searchMessage.innerHTML = createDangerMessage(inputCard.value);
       return;
@@ -131,8 +127,7 @@ function searchForResult() {
       let results = resultsList[card.Id].map((f) => {
         return { card1: getCardById(f.card1), card2: getCardById(f.card2) };
       });
-      outputLeft.innerHTML = "<h2 class='sub-title'>Fusions</h2>";
-      outputLeft.innerHTML += fusesToHTML(results);
+      output.innerHTML += fusesToHTML(results, titlesH2[0]);
     } else {
       searchMessage.innerHTML = createDangerMessage(inputCard.value);
       return;
