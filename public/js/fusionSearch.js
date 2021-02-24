@@ -1,21 +1,21 @@
 let inputCard = document.getElementById("cardname");
 let output = document.getElementById("output");
-let outputCard = document.getElementById("outputcard");
+let informationCard = document.getElementById("info-card");
 let searchMessage = document.getElementById("search-msg");
 let resetBtn = document.getElementById("reset-btn");
 let searchResultsBtn = document.getElementById("search-results-btn");
 let searchNameBtn = document.getElementById("search-name-btn");
-let titlesH2 = ["Fusions", "Equips On"];
+let titlesH2 = ["Fusions", "Equips On", "Rituals"];
 
 function resultsClear() {
   output.innerHTML = "";
-  outputCard.innerHTML = "";
+  informationCard.innerHTML = "";
   searchMessage.innerHTML = "";
 }
 
-function createDangerMessage(input) {
+function createHTMLDanger(input) {
   if (!input) {
-    let firstMessage = `<div class="alert-danger">Please enter a search term</div>`;
+    let firstMessage = `<div class="alert-danger">Please enter a valid search term</div>`;
     return firstMessage;
   } else {
     let secondMessage = `<div class="alert-danger">No results found for ${input}</div>`;
@@ -23,30 +23,19 @@ function createDangerMessage(input) {
   }
 }
 
-// Display card beside search bar
+/** Display a card with information of the query released. */
 function createSideCard(card) {
   let typeCard = cardTypes[card.Type];
   let typeImage = typeCard.replace(/\s/, "_");
 
-  let modelCard = `<div class="card-box">
-                  <h3 class="card-title">${card.Name}</h3>
-                  <p class="card-description">${card.Description}</p>
-                  <div class="card-item"><div class="card-subitem">
-                  <img src="public/images/icons/${typeImage}.png" alt="type icon" class="card-icons" width="20" height="20" />
-                  <p class="card-text">${typeCard}</p></div>`;
+  let modelCard = `<div class="card-box"><h3 class="card-title">${card.Name}</h3><p class="card-description">${card.Description}</p><div class="card-item"><div class="card-subitem"><img src="public/images/icons/${typeImage}.png" alt="type icon" class="card-icons" width="20" height="20" /><p class="card-text">${typeCard}</p></div>`;
 
-  let starsSection = `</div><div class="card-item">
-  <img src="public/images/icons/star.svg" alt="type icon" class="card-icons" width="20" height="20" />
-  <p class="card-text">Starchip ${card.Stars}</p>
-  <img src="public/images/icons/padlock.svg" alt="type icon" class="card-icons" width="20" height="20" />
+  let starsSection = `</div><div class="card-item"><img src="public/images/icons/star.svg" alt="type icon" class="card-icons" width="20" height="20" />
+  <p class="card-text">Starchip ${card.Stars}</p><img src="public/images/icons/padlock.svg" alt="type icon" class="card-icons" width="20" height="20" />
   <p class="card-text">${card.CardCode}</p></div></div>`;
 
   if (isMonster(card) === true) {
-    let monsterSection = `<div class="card-subitem">
-                 <img src="public/images/icons/sword.svg" alt="type icon" class="card-icons" width="20" height="20" />
-                 <p class="card-text">ATK ${card.Attack} /</p>
-                 <img src="public/images/icons/shield.svg" alt="type icon" class="card-icons" width="20" height="20" />
-                 <p class="card-text">DEF ${card.Defense}</p></div>`;
+    let monsterSection = `<div class="card-subitem"><img src="public/images/icons/sword.svg" alt="type icon" class="card-icons" width="20" height="20" /><p class="card-text">ATK ${card.Attack} /</p><img src="public/images/icons/shield.svg" alt="type icon" class="card-icons" width="20" height="20" /><p class="card-text">DEF ${card.Defense}</p></div>`;
     let monsterCard = modelCard + monsterSection + starsSection;
     return monsterCard;
   } else {
@@ -71,9 +60,9 @@ $("#cardname").on("awesomplete-selectcomplete", function () {
   searchByName();
 });
 
-// Creates a div for each fusion
+/** Creates a div component with all the possibles fusions. */
 function fusesToHTML(fuselist, title) {
-  let ptagList = fuselist
+  let pTagList = fuselist
     .map(function (fusion) {
       let pTag = `<p class="card-textplus">${fusion.card1.Name}<strong> + </strong>${fusion.card2.Name}</p>`;
       if (fusion.result) {
@@ -83,33 +72,30 @@ function fusesToHTML(fuselist, title) {
       return pTag;
     })
     .join("\n");
-
-  let cardDiv = `<div class="card-fusion-equip">
-  <h2 class='sub-title'>${title}</h2>${ptagList}</div>`;
+  let cardDiv = `<div class="card-fusion-equip"><h2 class='sub-title'>${title}</h2>${pTagList}</div>`;
   return cardDiv;
 }
 
 function searchByName() {
   let card = getCardByName(inputCard.value);
   if (!card) {
-    searchMessage.innerHTML = createDangerMessage(inputCard.value);
+    searchMessage.innerHTML = createHTMLDanger(inputCard.value);
     return;
   } else {
-    outputCard.innerHTML = createSideCard(card);
+    informationCard.innerHTML = createSideCard(card);
     let fusionResponse = hasFusions(card);
     let equipResponse = equipCard(card);
-    let fuses = cardWithFusions(card);
-    let equips = cardWithEquips(card);
 
-    if (fusionResponse && equipResponse) {
+    if (fusionResponse) {
+      let fuses = cardWithFusions(card);
       output.innerHTML += fusesToHTML(fuses, titlesH2[0]);
-      output.innerHTML += fusesToHTML(equips, titlesH2[1]);
-    } else if (fusionResponse) {
-      output.innerHTML += fusesToHTML(fuses, titlesH2[0]);
-    } else if (equipResponse) {
+    }
+
+    if (equipResponse) {
+      let equips = cardWithEquips(card);
       output.innerHTML += fusesToHTML(equips, titlesH2[1]);
     } else {
-      searchMessage.innerHTML = createDangerMessage(inputCard.value);
+      searchMessage.innerHTML = createHTMLDanger(inputCard.value);
       return;
     }
   }
@@ -118,10 +104,10 @@ function searchByName() {
 function searchForResult() {
   let card = getCardByName(inputCard.value);
   if (!card) {
-    searchMessage.innerHTML = createDangerMessage(inputCard.value);
+    searchMessage.innerHTML = createHTMLDanger(inputCard.value);
     return;
   } else {
-    outputCard.innerHTML = createSideCard(card);
+    informationCard.innerHTML = createSideCard(card);
     let booleanResult = hasResult(card);
     if (booleanResult) {
       let results = resultsList[card.Id].map((f) => {
@@ -129,7 +115,7 @@ function searchForResult() {
       });
       output.innerHTML += fusesToHTML(results, titlesH2[0]);
     } else {
-      searchMessage.innerHTML = createDangerMessage(inputCard.value);
+      searchMessage.innerHTML = createHTMLDanger(inputCard.value);
       return;
     }
   }
@@ -139,7 +125,7 @@ searchNameBtn.onclick = function () {
   let booleanResponse = checkInputValidation(inputCard);
   resultsClear();
   if (booleanResponse) {
-    searchMessage.innerHTML = createDangerMessage();
+    searchMessage.innerHTML = createHTMLDanger();
     return;
   } else {
     searchByName();
@@ -150,7 +136,7 @@ searchResultsBtn.onclick = function () {
   let booleanResponse = checkInputValidation(inputCard);
   resultsClear();
   if (booleanResponse) {
-    searchMessage.innerHTML = createDangerMessage();
+    searchMessage.innerHTML = createHTMLDanger();
     return;
   } else {
     searchForResult();

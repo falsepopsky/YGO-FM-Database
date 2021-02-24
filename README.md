@@ -9,7 +9,6 @@ Visit [Yu-Gi-Oh! Forbidden Memories Database](https://falsepopsky.github.io/YGO-
 
 ### Special Thanks :clap:
 
-- [Solumin](https://github.com/Solumin) Original Author
 - Steve Kalynuik, Dylan Birtolo and Miguel Balauag, for the [Fusion
   FAQ](https://www.gamefaqs.com/ps/561010-yu-gi-oh-forbidden-memories/faqs/16613), an invaluable resource
 - The Yu-Gi-Oh! Wikia, for the list of cards that I turned into the card
