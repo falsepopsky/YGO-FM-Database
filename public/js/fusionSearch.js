@@ -55,10 +55,6 @@ var cardNameCompletion = new Awesomplete(inputCard, {
 inputCard.onchange = function () {
   cardNameCompletion.select(); // select the currently highlighted item, e.g. if user tabs
 };
-$("#cardname").on("awesomplete-selectcomplete", function () {
-  resultsClear();
-  searchByName();
-});
 
 /** Creates a div component with all the possibles fusions. */
 function fusesToHTML(fuselist, title) {

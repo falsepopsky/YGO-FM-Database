@@ -182,9 +182,8 @@ body {
 }
 
 .input-search {
-  border: 0;
-  border-bottom: black solid 2px;
-  padding: 0;
+  border: black solid 2px;
+  padding: 10px;
   width: 300px;
   overflow: hidden;
 }
@@ -210,24 +209,24 @@ body {
 }
 
 .search {
-  background-color: #3eea45;
+  background-color: #3eea45c7;
 }
 
 .search:focus {
   color: black;
-  background-color: #3eea45;
+  background-color: #3eea45c7;
   border-color: #9effa2;
   box-shadow: 0 0 0 0.2rem #9effa2;
   outline: none;
 }
 
 .reset {
-  background-color: #ea3e3e;
+  background-color: #f25757;
 }
 
 .reset:focus {
   color: black;
-  background-color: #ea3e3e;
+  background-color: #f25757;
   border-color: #ff6464;
   box-shadow: 0 0 0 0.2rem #ff6464;
   outline: none;
